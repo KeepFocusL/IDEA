@@ -1,17 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bf57827-6130-4320-9e9d-5e83855d611d" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lxh-se.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lxh-se.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" />
+    <list default="true" id="7bf57827-6130-4320-9e9d-5e83855d611d" name="更改" comment="Student step - 5 完善打印第二个学生的信息">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/Project" value="master" />
+      </map>
+    </option>
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2d8A4vklMpZMC6GRUBPv09RXmVE" />
   <component name="ProjectLevelVcsManager">
@@ -27,15 +44,32 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "preferences.general",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StudentTest">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.BinarySearch" />
+      <module name="lxh-se" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.HelloWorld" />
       <module name="lxh-se" />
@@ -49,9 +83,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day240303.StudentTest" />
+      <module name="lxh-se" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day240303.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.HelloWorld" />
+        <item itemvalue="Application.StudentTest" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.StudentTest" />
       </list>
     </recent_temporary>
   </component>
@@ -64,13 +114,79 @@
       <option name="presentableId" value="Default" />
       <updated>1709379145240</updated>
       <workItem from="1709379146150" duration="182000" />
+      <workItem from="1709379626317" duration="40000" />
+      <workItem from="1709382379021" duration="250000" />
+      <workItem from="1709428029755" duration="29000" />
+      <workItem from="1709428070390" duration="196000" />
+      <workItem from="1709428276143" duration="2731000" />
     </task>
+    <task id="LOCAL-00001" summary="Student step - 1 TODO">
+      <created>1709429379139</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709429379139</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Student step - 2 第一个学生信息">
+      <created>1709429616998</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709429616998</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Student step - 2 第二个学生信息">
+      <created>1709429777871</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709429777871</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Student step - 3 打印信息">
+      <created>1709429996410</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709429996410</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Student step - 4 完善打印第一个学生的信息">
+      <created>1709430270518</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709430270518</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Student step - 5 完善打印第二个学生的信息">
+      <created>1709430303337</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709430303337</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Student step - 1 TODO" />
+    <MESSAGE value="Student step - 2 第一个学生信息" />
+    <MESSAGE value="Student step - 2 第二个学生信息" />
+    <MESSAGE value="Student step - 3 打印信息" />
+    <MESSAGE value="Student step - 4 完善打印第一个学生的信息" />
+    <MESSAGE value="Student step - 5 完善打印第二个学生的信息" />
+    <option name="LAST_COMMIT_MESSAGE" value="Student step - 5 完善打印第二个学生的信息" />
   </component>
 </project>
