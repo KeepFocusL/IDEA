@@ -4,14 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bf57827-6130-4320-9e9d-5e83855d611d" name="更改" comment="Student with dogs e2 -keep thinking">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240303/e2/MemoryExplain.java" afterDir="false" />
+    <list default="true" id="7bf57827-6130-4320-9e9d-5e83855d611d" name="更改" comment="png">
+      <change afterPath="$PROJECT_DIR$/Project/src/SHomeWork1/RectanglesC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/SHomeWork1/RectanglesS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/SHomeWork1/SquareC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/SHomeWork1/SquareS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/SHomeWork1/TriangleC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/SHomeWork1/TriangleS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240303/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240303/e3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240303/e3/StudentTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/src/day240303/e2/DogTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/src/day240303/e2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project/src/day240303/e2/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/src/day240303/e2/StudentWithDogs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/src/day240303/e2/StudentWithDogsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/test/HelloWorld.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/Project" value="master" />
+        <entry key="$PROJECT_DIR$/Project" value="5ee5a049004958802a233e9793381bff6784417b" />
       </map>
     </option>
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -63,13 +67,18 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.day240303.e2.StudentTest">
-    <configuration name="MemoryExplain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day240303.e2.MemoryExplain" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240303\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.StudentTest">
+    <configuration name="RectanglesC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SHomeWork1.RectanglesC" />
       <module name="lxh-se" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day240303.e2.*" />
+          <option name="PATTERN" value="SHomeWork1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +86,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day240303.e3.Student" />
+    <configuration name="RectanglesS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SHomeWork1.RectanglesS" />
       <module name="lxh-se" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day240303.e3.*" />
+          <option name="PATTERN" value="SHomeWork1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SHomeWork1.SquareC" />
+      <module name="lxh-se" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SHomeWork1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SHomeWork1.SquareS" />
+      <module name="lxh-se" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SHomeWork1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,32 +138,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentWithDogsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day240303.e2.StudentWithDogsTest" />
-      <module name="lxh-se" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day240303.e2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day240303.e2.StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day240303.e2.StudentTest" />
-      <module name="lxh-se" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day240303.e2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.StudentTest" />
+        <item itemvalue="应用程序.RectanglesS" />
+        <item itemvalue="应用程序.RectanglesC" />
+        <item itemvalue="应用程序.SquareC" />
+        <item itemvalue="应用程序.SquareS" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -148,7 +166,9 @@
       <workItem from="1709432353495" duration="7544000" />
       <workItem from="1709444732168" duration="6449000" />
       <workItem from="1709546131354" duration="1667000" />
-      <workItem from="1709548163516" duration="1201000" />
+      <workItem from="1709548163516" duration="7063000" />
+      <workItem from="1709558520201" duration="144000" />
+      <workItem from="1709641518910" duration="4519000" />
     </task>
     <task id="LOCAL-00001" summary="Student step - 1 TODO">
       <created>1709429379139</created>
@@ -276,7 +296,63 @@
       <option name="project" value="LOCAL" />
       <updated>1709549213534</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Student with dogs e2 -keep thinking -&gt; do">
+      <created>1709549468881</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1709549468881</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Student with dogs e2 -memory explain">
+      <created>1709549536043</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1709549536043</updated>
+    </task>
+    <task id="LOCAL-00021" summary="mistake">
+      <created>1709549561834</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1709549561834</updated>
+    </task>
+    <task id="LOCAL-00022" summary="gitignore">
+      <created>1709549636117</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1709549636117</updated>
+    </task>
+    <task id="LOCAL-00023" summary="gitignore">
+      <created>1709549641286</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1709549641286</updated>
+    </task>
+    <task id="LOCAL-00024" summary="gitignore">
+      <created>1709549652913</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1709549652913</updated>
+    </task>
+    <task id="LOCAL-00025" summary="删除">
+      <created>1709553261832</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1709553261832</updated>
+    </task>
+    <task id="LOCAL-00026" summary="png">
+      <created>1709553295074</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1709553295074</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,6 +388,12 @@
     <MESSAGE value="Student with dogs e2" />
     <MESSAGE value="Student with dogs e2 -thinking -&gt; do" />
     <MESSAGE value="Student with dogs e2 -keep thinking" />
-    <option name="LAST_COMMIT_MESSAGE" value="Student with dogs e2 -keep thinking" />
+    <MESSAGE value="Student with dogs e2 -keep thinking -&gt; do" />
+    <MESSAGE value="Student with dogs e2 -memory explain" />
+    <MESSAGE value="mistake" />
+    <MESSAGE value="gitignore" />
+    <MESSAGE value="删除" />
+    <MESSAGE value="png" />
+    <option name="LAST_COMMIT_MESSAGE" value="png" />
   </component>
 </project>
