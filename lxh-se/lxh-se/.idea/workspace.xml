@@ -4,18 +4,112 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bf57827-6130-4320-9e9d-5e83855d611d" name="更改" comment="png">
-      <change afterPath="$PROJECT_DIR$/Project/src/SHomeWork1/RectanglesC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/SHomeWork1/RectanglesS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/SHomeWork1/SquareC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/SHomeWork1/SquareS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/SHomeWork1/TriangleC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/SHomeWork1/TriangleS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240303/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240303/e3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240303/e3/StudentTest.java" afterDir="false" />
+    <list default="true" id="7bf57827-6130-4320-9e9d-5e83855d611d" name="更改" comment="Student step -3 通过.的方式">
+      <change afterPath="$PROJECT_DIR$/Project/src/day240306/OverloadTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240306/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240306/Student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240306/Student1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240306/VarargsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240308/StringConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/l/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/l/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/l/xian.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/test/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project" beforeDir="false" afterPath="$PROJECT_DIR$/Project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/src/Practice/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project/src/Practice/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/src/day240306/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/src/day240306/StudentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/Practice/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/Practice/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/Practice/DisplayPhoneNumberTest11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/Practice/LinearSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/Practice/Mydog/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/Practice/Mydog/DogTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/Practice/Table99Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day231228/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240104/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/DataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/DateTypes2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/DateTypes3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/DateTypes4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/JavaDoc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/Naming.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/VariableBasic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/doc/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/doc/day03/JavaDoc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/doc/day03/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/doc/day03/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/doc/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/doc/index-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/doc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/doc/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240111/For.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240111/Guess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240111/If.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240111/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240111/ScannerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240111/StringBasic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240111/While.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240125/Arithmetic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240125/BreakContinueLabel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240125/CurrencyConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240125/If.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240125/Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240125/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240125/Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240125/SwitchNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240125/img/Rooney.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/ArrayBasic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/Assignment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/AssignmentPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/DisplayWeekTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/Logical.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/LogicalPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/RandomSelector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/Table99.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/img/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/img/operator-part2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/ArrayElementDefaultValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/ArrayInMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/ArrayInMemoryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/DisplayPhoneNumberTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/PhoneNumberPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/Table99Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/TwoDimensionalArrayBasic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/TwoDimensionalArrayElementDefaultValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/TwoDimensionalArrayInMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/img/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/img/img_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240130/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240130/LinearSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240130/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240130/StudentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240131/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240131/OopConcepts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240131/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240131/PhoneTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240131/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240131/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240131/StudentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240222/e1/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240222/e1/DogTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240222/e2/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240222/e2/CircleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240223/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240223/e3/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240223/e3/StudentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240223/e4/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240223/e4/StudentWithDogs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240223/e4/StudentWithDogsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240223/img/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240228/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240228/answer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240228/iai.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240228/iaj.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +126,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/Project" value="5ee5a049004958802a233e9793381bff6784417b" />
+        <entry key="$PROJECT_DIR$/Project" value="98cf4813fb83409f1988467691a5076326b83790" />
       </map>
     </option>
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -60,10 +154,10 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright.profiles&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -72,13 +166,52 @@
       <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240303\img" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.StudentTest">
+  <component name="RunManager" selected="Application.RectanglesC">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l.BinarySearch" />
+      <module name="lxh-se" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="l.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.LinearSearch" />
+      <module name="lxh-se" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice.BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.BinarySearch" />
+      <module name="lxh-se" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RectanglesC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SHomeWork1.RectanglesC" />
+      <option name="MAIN_CLASS_NAME" value="SHomeWork.h1.RectanglesC" />
       <module name="lxh-se" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SHomeWork1.*" />
+          <option name="PATTERN" value="SHomeWork.h1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,51 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectanglesS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SHomeWork1.RectanglesS" />
+    <configuration name="xian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l.xian" />
       <module name="lxh-se" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SHomeWork1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SquareC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SHomeWork1.SquareC" />
-      <module name="lxh-se" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SHomeWork1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SquareS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SHomeWork1.SquareS" />
-      <module name="lxh-se" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SHomeWork1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day240303.e3.StudentTest" />
-      <module name="lxh-se" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day240303.e3.*" />
+          <option name="PATTERN" value="l.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.StudentTest" />
-        <item itemvalue="应用程序.RectanglesS" />
-        <item itemvalue="应用程序.RectanglesC" />
-        <item itemvalue="应用程序.SquareC" />
-        <item itemvalue="应用程序.SquareS" />
+        <item itemvalue="Application.RectanglesC" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.Practice.BinarySearch" />
+        <item itemvalue="Application.xian" />
+        <item itemvalue="Application.LinearSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +262,14 @@
       <workItem from="1709546131354" duration="1667000" />
       <workItem from="1709548163516" duration="7063000" />
       <workItem from="1709558520201" duration="144000" />
-      <workItem from="1709641518910" duration="4519000" />
+      <workItem from="1709641518910" duration="4706000" />
+      <workItem from="1709646457485" duration="190000" />
+      <workItem from="1709646662131" duration="596000" />
+      <workItem from="1709711377117" duration="11853000" />
+      <workItem from="1709729561248" duration="2082000" />
+      <workItem from="1709789866847" duration="10267000" />
+      <workItem from="1709803644389" duration="1403000" />
+      <workItem from="1709884800867" duration="538000" />
     </task>
     <task id="LOCAL-00001" summary="Student step - 1 TODO">
       <created>1709429379139</created>
@@ -352,7 +453,70 @@
       <option name="project" value="LOCAL" />
       <updated>1709553295074</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="删除">
+      <created>1709646134997</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1709646134997</updated>
+    </task>
+    <task id="LOCAL-00028" summary="学校作业">
+      <created>1709646153056</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1709646153056</updated>
+    </task>
+    <task id="LOCAL-00029" summary="随机20个学生">
+      <created>1709646194628</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1709646194628</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Readme">
+      <created>1709646219197</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1709646219197</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Project">
+      <created>1709646233095</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1709646233095</updated>
+    </task>
+    <task id="LOCAL-00032" summary="学校作业">
+      <created>1709646626482</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1709646626482</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Student step -1 复制BubbleSort">
+      <created>1709725118659</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1709725118659</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Student step -2 数据名由arr改为students">
+      <created>1709725253752</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1709725253752</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Student step -2 数据类型由int改为Student">
+      <created>1709725413226</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1709725413226</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -363,7 +527,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="text">
+                    <value>
+                      <list>
+                        <option value="B" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -371,13 +547,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Student step - 1 TODO" />
-    <MESSAGE value="Student step - 2 第一个学生信息" />
-    <MESSAGE value="Student step - 2 第二个学生信息" />
-    <MESSAGE value="Student step - 3 打印信息" />
     <MESSAGE value="Student step - 4 完善打印第一个学生的信息" />
     <MESSAGE value="Student step - 5 完善打印第二个学生的信息" />
-    <MESSAGE value="Project" />
     <MESSAGE value=".xml" />
     <MESSAGE value="Student step - 6 美化代码&#10;&#10;Ctrl+ALT+L" />
     <MESSAGE value="移动进包e1" />
@@ -392,8 +563,19 @@
     <MESSAGE value="Student with dogs e2 -memory explain" />
     <MESSAGE value="mistake" />
     <MESSAGE value="gitignore" />
-    <MESSAGE value="删除" />
     <MESSAGE value="png" />
-    <option name="LAST_COMMIT_MESSAGE" value="png" />
+    <MESSAGE value="删除" />
+    <MESSAGE value="随机20个学生" />
+    <MESSAGE value="Readme" />
+    <MESSAGE value="Project" />
+    <MESSAGE value="学校作业" />
+    <MESSAGE value="Student step -1 复制BubbleSort" />
+    <MESSAGE value="Student step -2 数据名由arr改为students" />
+    <MESSAGE value="Student step -2 数据类型由int改为Student" />
+    <option name="LAST_COMMIT_MESSAGE" value="Student step -2 数据类型由int改为Student" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
