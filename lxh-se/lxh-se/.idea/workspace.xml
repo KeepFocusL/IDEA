@@ -4,112 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bf57827-6130-4320-9e9d-5e83855d611d" name="更改" comment="Student step -3 通过.的方式">
-      <change afterPath="$PROJECT_DIR$/Project/src/day240306/OverloadTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240306/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240306/Student1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240306/Student1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240306/VarargsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240308/StringConcat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/l/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/l/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/l/xian.java" afterDir="false" />
+    <list default="true" id="7bf57827-6130-4320-9e9d-5e83855d611d" name="更改" comment="Circle">
+      <change afterPath="$PROJECT_DIR$/Project/src/day240306/img/println_overload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240306/varargs/e1/NewRequirements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240306/varargs/e2/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240306/varargs/e2/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240308/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240308/encapsulation/access_control/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240308/encapsulation/access_control/package1/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240308/encapsulation/access_control/package1/OrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240308/encapsulation/access_control/package2/OrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240308/encapsulation/singleton_basic/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240308/encapsulation/singleton_basic/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240310/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project" beforeDir="false" afterPath="$PROJECT_DIR$/Project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/src/Practice/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project/src/Practice/LinearSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/src/day240306/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/src/day240306/StudentTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/Practice/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/Practice/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/Practice/DisplayPhoneNumberTest11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/Practice/LinearSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/Practice/Mydog/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/Practice/Mydog/DogTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/Practice/Table99Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day231228/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240104/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/DataTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/DateTypes2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/DateTypes3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/DateTypes4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/JavaDoc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/Naming.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/VariableBasic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/doc/allpackages-index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/doc/day03/JavaDoc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/doc/day03/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/doc/day03/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/doc/element-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/doc/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/doc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240106/doc/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240111/For.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240111/Guess.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240111/If.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240111/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240111/ScannerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240111/StringBasic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240111/While.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240125/Arithmetic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240125/BreakContinueLabel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240125/CurrencyConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240125/If.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240125/Loop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240125/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240125/Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240125/SwitchNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240125/img/Rooney.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/ArrayBasic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/Assignment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/AssignmentPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/DisplayWeekTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/Logical.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/LogicalPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/RandomSelector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/Table99.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/img/img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240126/img/operator-part2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/ArrayElementDefaultValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/ArrayInMemory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/ArrayInMemoryTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/DisplayPhoneNumberTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/PhoneNumberPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/Table99Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/TwoDimensionalArrayBasic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/TwoDimensionalArrayElementDefaultValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/TwoDimensionalArrayInMemory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/img/img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240129/img/img_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240130/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240130/LinearSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240130/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240130/StudentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240131/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240131/OopConcepts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240131/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240131/PhoneTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240131/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240131/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240131/StudentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240222/e1/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240222/e1/DogTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240222/e2/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240222/e2/CircleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240223/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240223/e3/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240223/e3/StudentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240223/e4/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240223/e4/StudentWithDogs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240223/e4/StudentWithDogsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240223/img/img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240228/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240228/answer.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240228/iai.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lxh-se/day240228/iaj.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/src/day240306/OverloadTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project/src/day240306/overload/OverloadTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/src/day240306/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Project/src/day240306/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/src/day240306/VarargsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project/src/day240306/varargs/e3/VarargsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +41,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/Project" value="98cf4813fb83409f1988467691a5076326b83790" />
+        <entry key="$PROJECT_DIR$/Project" value="20af9e76accdeac92e23a992ff021bbee1ce15ae" />
       </map>
     </option>
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -142,31 +57,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;copyright.profiles&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/code1/java/lxh-se/lxh-se/Project/src/day240308/encapsulation",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "copyright.profiles",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240308\encapsulation" />
+      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240308" />
+      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240306\img" />
+      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240306\varargs\e2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240308\encapsulation\access_control" />
+      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240308\img" />
+      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240308\encapsulation" />
+      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240306\Varargs\e2" />
       <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240303\img" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RectanglesC">
+  <component name="RunManager" selected="Application.CircleTest">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="l.BinarySearch" />
       <module name="lxh-se" />
@@ -180,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.LinearSearch" />
+    <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day240308.thiskeyword.CircleTest" />
       <module name="lxh-se" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="day240308.encapsulation.singleton_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice.BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.BinarySearch" />
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day240306.Varargs.e2.HelloWorld" />
       <module name="lxh-se" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="day240306.Varargs.e2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="xian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="l.xian" />
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day240308.encapsulation.singleton_basic.StudentTest" />
       <module name="lxh-se" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="l.*" />
+          <option name="PATTERN" value="day240308.encapsulation.singleton_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CircleTest" />
+        <item itemvalue="Application.StudentTest" />
         <item itemvalue="Application.RectanglesC" />
+        <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.Practice.BinarySearch" />
-        <item itemvalue="Application.xian" />
-        <item itemvalue="Application.LinearSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +195,12 @@
       <workItem from="1709729561248" duration="2082000" />
       <workItem from="1709789866847" duration="10267000" />
       <workItem from="1709803644389" duration="1403000" />
-      <workItem from="1709884800867" duration="538000" />
+      <workItem from="1709884800867" duration="8172000" />
+      <workItem from="1709962862281" duration="13000" />
+      <workItem from="1710032241191" duration="13283000" />
+      <workItem from="1710052244943" duration="60000" />
+      <workItem from="1710052315033" duration="1197000" />
+      <workItem from="1710053654458" duration="968000" />
     </task>
     <task id="LOCAL-00001" summary="Student step - 1 TODO">
       <created>1709429379139</created>
@@ -516,7 +447,105 @@
       <option name="project" value="LOCAL" />
       <updated>1709725413226</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Change">
+      <created>1709885485432</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1709885485432</updated>
+    </task>
+    <task id="LOCAL-00037" summary="encapsulation - singleton basic">
+      <created>1710038664013</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1710038664013</updated>
+    </task>
+    <task id="LOCAL-00038" summary="encapsulation - singleton basic - private(err)&#10;&#10;把构造器私有化，不能直接在Test 中 new出来">
+      <created>1710038770119</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1710038770119</updated>
+    </task>
+    <task id="LOCAL-00039" summary="encapsulation - singleton basic - private 思考&#10;把构造器私有化 -&gt; 问题 -&gt; 外部不能new -&gt; 在哪里new？">
+      <created>1710038911057</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1710038911057</updated>
+    </task>
+    <task id="LOCAL-00040" summary="encapsulation - singleton basic - private  在state new(err)">
+      <created>1710039065159</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1710039065159</updated>
+    </task>
+    <task id="LOCAL-00041" summary="encapsulation - singleton basic - private  在state new - static&#10;&#10;在new前加static使外部能直接调用new出的东西，前面已经提前加了，应该在这一步再加static">
+      <created>1710039240210</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1710039240210</updated>
+    </task>
+    <task id="LOCAL-00042" summary="encapsulation - singleton basic - private  在state new - static 完成">
+      <created>1710039412691</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1710039412691</updated>
+    </task>
+    <task id="LOCAL-00043" summary="encapsulation - singleton basic - private  在state new - static 在外部多次调用&#10;&#10;进一步，验证在外部多次调用，还是不是同一个对象">
+      <created>1710039522116</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1710039522116</updated>
+    </task>
+    <task id="LOCAL-00044" summary="encapsulation - singleton basic - private  在state new - static - Instance&#10;&#10;把数据名从Student改为Instance">
+      <created>1710041548462</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1710041548462</updated>
+    </task>
+    <task id="LOCAL-00045" summary="encapsulation - singleton basic - 解决上一个问题 - step1 (err)">
+      <created>1710042229708</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1710042229708</updated>
+    </task>
+    <task id="LOCAL-00046" summary="encapsulation - singleton basic - 解决上一个问题 - step2 用return引用返回值instance">
+      <created>1710042294068</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1710042294068</updated>
+    </task>
+    <task id="LOCAL-00047" summary="encapsulation - singleton basic - 解决上一个问题 - step3 加入静态值static可以在外部直接引用&#10;并且把step1忘加的private加上了">
+      <created>1710042669487</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1710042669487</updated>
+    </task>
+    <task id="LOCAL-00048" summary="encapsulation - singleton basic - final&#10;&#10;如果一个变量被赋值一次之后不允许在修改，就可以用final关键字修饰他">
+      <created>1710042766282</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1710042766282</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Circle">
+      <created>1710054622328</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1710054622328</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -528,15 +557,9 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="FILTERS">
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="text">
-                    <value>
-                      <list>
-                        <option value="B" />
-                      </list>
-                    </value>
-                  </entry>
+                  <entry key="Show.Git.Branches" value="false" />
                 </map>
               </option>
             </State>
@@ -547,21 +570,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Student step - 4 完善打印第一个学生的信息" />
-    <MESSAGE value="Student step - 5 完善打印第二个学生的信息" />
-    <MESSAGE value=".xml" />
-    <MESSAGE value="Student step - 6 美化代码&#10;&#10;Ctrl+ALT+L" />
-    <MESSAGE value="移动进包e1" />
-    <MESSAGE value="Dog Step - 1 TODO" />
-    <MESSAGE value="Dog Step - 2" />
-    <MESSAGE value="DogWithDogs Step - 1" />
-    <MESSAGE value="Student with dogs e2 mistake" />
-    <MESSAGE value="Student with dogs e2" />
-    <MESSAGE value="Student with dogs e2 -thinking -&gt; do" />
-    <MESSAGE value="Student with dogs e2 -keep thinking" />
-    <MESSAGE value="Student with dogs e2 -keep thinking -&gt; do" />
-    <MESSAGE value="Student with dogs e2 -memory explain" />
-    <MESSAGE value="mistake" />
     <MESSAGE value="gitignore" />
     <MESSAGE value="png" />
     <MESSAGE value="删除" />
@@ -572,7 +580,22 @@
     <MESSAGE value="Student step -1 复制BubbleSort" />
     <MESSAGE value="Student step -2 数据名由arr改为students" />
     <MESSAGE value="Student step -2 数据类型由int改为Student" />
-    <option name="LAST_COMMIT_MESSAGE" value="Student step -2 数据类型由int改为Student" />
+    <MESSAGE value="Change" />
+    <MESSAGE value="encapsulation - singleton basic" />
+    <MESSAGE value="encapsulation - singleton basic - private(err)&#10;&#10;把构造器私有化，不能直接在Test 中 new出来" />
+    <MESSAGE value="encapsulation - singleton basic - private 思考&#10;把构造器私有化 -&gt; 问题 -&gt; 外部不能new -&gt; 在哪里new？" />
+    <MESSAGE value="encapsulation - singleton basic - private  在state new(err)" />
+    <MESSAGE value="encapsulation - singleton basic - private  在state new - static&#10;&#10;在new前加static使外部能直接调用new出的东西，前面已经提前加了，应该在这一步再加static" />
+    <MESSAGE value="encapsulation - singleton basic - private  在state new - static 完成" />
+    <MESSAGE value="encapsulation - singleton basic - private +static  在外部多次调用&#10;&#10;进一步，验证在外部多次调用，还是不是同一个对象" />
+    <MESSAGE value="encapsulation - singleton basic - private +static - instance&#10;&#10;把数据名从Student改为Instance" />
+    <MESSAGE value="encapsulation - singleton basic - 解决上一个问题 - step1 (err)&#10;&#10;在new前加private，这步忘加了，在step3里加上了" />
+    <MESSAGE value="encapsulation - singleton basic - 解决上一个问题 - step2 用return引用返回值instance" />
+    <MESSAGE value="encapsulation - singleton basic - 解决上一个问题 - step3 加入静态值static可以在外部直接引用&#10;并且把step1忘加的private加上了" />
+    <MESSAGE value="encapsulation - singleton basic - final" />
+    <MESSAGE value="encapsulation - singleton basic - final&#10;&#10;如果一个变量被赋值一次之后不允许在修改，就可以用final关键字修饰他" />
+    <MESSAGE value="Circle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Circle" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
