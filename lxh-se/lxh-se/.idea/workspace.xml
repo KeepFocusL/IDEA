@@ -4,27 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bf57827-6130-4320-9e9d-5e83855d611d" name="更改" comment="Circle">
-      <change afterPath="$PROJECT_DIR$/Project/src/day240306/img/println_overload.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240306/varargs/e1/NewRequirements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240306/varargs/e2/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240306/varargs/e2/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240308/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240308/encapsulation/access_control/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240308/encapsulation/access_control/package1/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240308/encapsulation/access_control/package1/OrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240308/encapsulation/access_control/package2/OrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240308/encapsulation/singleton_basic/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240308/encapsulation/singleton_basic/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240310/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+    <list default="true" id="7bf57827-6130-4320-9e9d-5e83855d611d" name="更改" comment="猜彩票游戏，存在bug">
+      <change afterPath="$PROJECT_DIR$/Project/src/day240317/poker/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240317/poker/DisplayDeck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/src/day240306/OverloadTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project/src/day240306/overload/OverloadTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/src/day240306/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Project/src/day240306/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/src/day240306/VarargsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project/src/day240306/varargs/e3/VarargsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/src/day240317/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Project/src/day240317/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/code1/java/lxh-se/lxh-se/Project/src/day240308/encapsulation",
+    "last_opened_file_path": "D:/code1/java/lxh-se/lxh-se/Project/src/day240313",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -79,26 +66,27 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240313" />
+      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240317\img" />
       <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240308\encapsulation" />
       <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240308" />
       <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240306\img" />
-      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240306\varargs\e2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240317\img" />
+      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240315\img" />
       <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240308\encapsulation\access_control" />
       <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240308\img" />
       <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240308\encapsulation" />
-      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240306\Varargs\e2" />
-      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240303\img" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CircleTest">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="l.BinarySearch" />
+  <component name="RunManager" selected="Application.DisplayDeck">
+    <configuration name="Card" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day240317.poker.Card" />
       <module name="lxh-se" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="l.*" />
+          <option name="PATTERN" value="day240317.poker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day240308.thiskeyword.CircleTest" />
+    <configuration name="DisplayDeck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day240317.poker.DisplayDeck" />
       <module name="lxh-se" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day240308.encapsulation.singleton_basic.*" />
+          <option name="PATTERN" value="day240317.poker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day240306.Varargs.e2.HelloWorld" />
+    <configuration name="LotteryTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SHomeWork.h3.LotteryTicket" />
       <module name="lxh-se" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day240306.Varargs.e2.*" />
+          <option name="PATTERN" value="SHomeWork.h3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectanglesC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SHomeWork.h1.RectanglesC" />
+    <configuration name="LotteryTicket1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SHomeWork.h3.LotteryTicket1" />
       <module name="lxh-se" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SHomeWork.h1.*" />
+          <option name="PATTERN" value="SHomeWork.h3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day240308.encapsulation.singleton_basic.StudentTest" />
+    <configuration name="RecursionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day240313.RecursionTest" />
       <module name="lxh-se" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day240308.encapsulation.singleton_basic.*" />
+          <option name="PATTERN" value="day240313.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CircleTest" />
-        <item itemvalue="Application.StudentTest" />
-        <item itemvalue="Application.RectanglesC" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.DisplayDeck" />
+        <item itemvalue="Application.Card" />
+        <item itemvalue="Application.RecursionTest" />
+        <item itemvalue="Application.LotteryTicket1" />
+        <item itemvalue="Application.LotteryTicket" />
       </list>
     </recent_temporary>
   </component>
@@ -200,217 +188,21 @@
       <workItem from="1710032241191" duration="13283000" />
       <workItem from="1710052244943" duration="60000" />
       <workItem from="1710052315033" duration="1197000" />
-      <workItem from="1710053654458" duration="968000" />
-    </task>
-    <task id="LOCAL-00001" summary="Student step - 1 TODO">
-      <created>1709429379139</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1709429379139</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Student step - 2 第一个学生信息">
-      <created>1709429616998</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1709429616998</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Student step - 2 第二个学生信息">
-      <created>1709429777871</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1709429777871</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Student step - 3 打印信息">
-      <created>1709429996410</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1709429996410</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Student step - 4 完善打印第一个学生的信息">
-      <created>1709430270518</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1709430270518</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Student step - 5 完善打印第二个学生的信息">
-      <created>1709430303337</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1709430303337</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Project">
-      <created>1709431300109</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1709431300109</updated>
-    </task>
-    <task id="LOCAL-00008" summary=".xml">
-      <created>1709431311312</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1709431311312</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Student step - 6 美化代码">
-      <created>1709432118171</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1709432118171</updated>
-    </task>
-    <task id="LOCAL-00010" summary="移动进包e1">
-      <created>1709433170074</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1709433170074</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Dog Step - 1 TODO">
-      <created>1709433187707</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1709433187707</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Dog Step - 1 TODO">
-      <created>1709433335408</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1709433335408</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Dog Step - 2">
-      <created>1709433878486</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1709433878486</updated>
-    </task>
-    <task id="LOCAL-00014" summary="DogWithDogs Step - 1">
-      <created>1709437415072</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1709437415072</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Student with dogs e2 -thinking -&gt; do">
-      <created>1709546972452</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1709546972452</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Student with dogs e2">
-      <created>1709547123675</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1709547123675</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Student with dogs e2 -thinking -&gt; do">
-      <created>1709549024601</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1709549024601</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Student with dogs e2 -keep thinking">
-      <created>1709549213534</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1709549213534</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Student with dogs e2 -keep thinking -&gt; do">
-      <created>1709549468881</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1709549468881</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Student with dogs e2 -memory explain">
-      <created>1709549536043</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1709549536043</updated>
-    </task>
-    <task id="LOCAL-00021" summary="mistake">
-      <created>1709549561834</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1709549561834</updated>
-    </task>
-    <task id="LOCAL-00022" summary="gitignore">
-      <created>1709549636117</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1709549636117</updated>
-    </task>
-    <task id="LOCAL-00023" summary="gitignore">
-      <created>1709549641286</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1709549641286</updated>
-    </task>
-    <task id="LOCAL-00024" summary="gitignore">
-      <created>1709549652913</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1709549652913</updated>
-    </task>
-    <task id="LOCAL-00025" summary="删除">
-      <created>1709553261832</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1709553261832</updated>
-    </task>
-    <task id="LOCAL-00026" summary="png">
-      <created>1709553295074</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1709553295074</updated>
-    </task>
-    <task id="LOCAL-00027" summary="删除">
-      <created>1709646134997</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1709646134997</updated>
-    </task>
-    <task id="LOCAL-00028" summary="学校作业">
-      <created>1709646153056</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1709646153056</updated>
-    </task>
-    <task id="LOCAL-00029" summary="随机20个学生">
-      <created>1709646194628</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1709646194628</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Readme">
-      <created>1709646219197</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1709646219197</updated>
+      <workItem from="1710053654458" duration="2424000" />
+      <workItem from="1710155648883" duration="3805000" />
+      <workItem from="1710160082624" duration="16000" />
+      <workItem from="1710163716672" duration="448000" />
+      <workItem from="1710164523877" duration="29000" />
+      <workItem from="1710246748415" duration="4200000" />
+      <workItem from="1710328828302" duration="7199000" />
+      <workItem from="1710409739766" duration="758000" />
+      <workItem from="1710502204233" duration="5500000" />
+      <workItem from="1710509678652" duration="535000" />
+      <workItem from="1710565582217" duration="938000" />
+      <workItem from="1710576356541" duration="4437000" />
+      <workItem from="1710637264066" duration="24812000" />
+      <workItem from="1710755811478" duration="8116000" />
+      <workItem from="1710924311227" duration="2890000" />
     </task>
     <task id="LOCAL-00031" summary="Project">
       <created>1709646233095</created>
@@ -545,7 +337,217 @@
       <option name="project" value="LOCAL" />
       <updated>1710054622328</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Readme">
+      <created>1710054676797</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1710054676798</updated>
+    </task>
+    <task id="LOCAL-00051" summary="commit">
+      <created>1710054698742</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1710054698742</updated>
+    </task>
+    <task id="LOCAL-00052" summary="img">
+      <created>1710054715486</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1710054715486</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Order">
+      <created>1710054738001</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1710054738001</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Student">
+      <created>1710054758675</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1710054758675</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Overload">
+      <created>1710054771265</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1710054771265</updated>
+    </task>
+    <task id="LOCAL-00056" summary="VarargsTest">
+      <created>1710054793162</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1710054793162</updated>
+    </task>
+    <task id="LOCAL-00057" summary="NewRequirements">
+      <created>1710054806285</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1710054806285</updated>
+    </task>
+    <task id="LOCAL-00058" summary="HelloWorld">
+      <created>1710054815126</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1710054815126</updated>
+    </task>
+    <task id="LOCAL-00059" summary="commit">
+      <created>1710054824632</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1710054824632</updated>
+    </task>
+    <task id="LOCAL-00060" summary="png">
+      <created>1710160056575</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1710160056576</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Readme">
+      <created>1710160065513</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1710160065513</updated>
+    </task>
+    <task id="LOCAL-00062" summary="石头剪刀布">
+      <created>1710260069319</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1710260069319</updated>
+    </task>
+    <task id="LOCAL-00063" summary="png">
+      <created>1710577039000</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1710577039000</updated>
+    </task>
+    <task id="LOCAL-00064" summary="斐波那契数列">
+      <created>1710577052672</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1710577052672</updated>
+    </task>
+    <task id="LOCAL-00065" summary="石头剪刀布">
+      <created>1710644088840</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1710644088840</updated>
+    </task>
+    <task id="LOCAL-00066" summary="石头剪刀布">
+      <created>1710645679930</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1710645679930</updated>
+    </task>
+    <task id="LOCAL-00067" summary="石头剪刀布 OOP">
+      <created>1710654009074</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1710654009074</updated>
+    </task>
+    <task id="LOCAL-00068" summary="石头剪刀布 OOP">
+      <created>1710654020536</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1710654020536</updated>
+    </task>
+    <task id="LOCAL-00069" summary="石头剪刀布 OOP">
+      <created>1710654648524</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1710654648524</updated>
+    </task>
+    <task id="LOCAL-00070" summary="石头剪刀布">
+      <created>1710654697510</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1710654697510</updated>
+    </task>
+    <task id="LOCAL-00071" summary="README">
+      <created>1710665309109</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1710665309109</updated>
+    </task>
+    <task id="LOCAL-00072" summary="img">
+      <created>1710756101081</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1710756101082</updated>
+    </task>
+    <task id="LOCAL-00073" summary="img">
+      <created>1710926223965</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1710926223965</updated>
+    </task>
+    <task id="LOCAL-00074" summary="最初版石头剪刀布改名">
+      <created>1710926261423</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1710926261423</updated>
+    </task>
+    <task id="LOCAL-00075" summary="从1加到100">
+      <created>1710926406679</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1710926406679</updated>
+    </task>
+    <task id="LOCAL-00076" summary="死循环">
+      <created>1710926478853</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1710926478853</updated>
+    </task>
+    <task id="LOCAL-00077" summary="删除">
+      <created>1710926530558</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1710926530558</updated>
+    </task>
+    <task id="LOCAL-00078" summary="从牌堆里找一张牌">
+      <created>1710927098309</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1710927098309</updated>
+    </task>
+    <task id="LOCAL-00079" summary="猜彩票游戏，存在bug">
+      <created>1710927184796</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1710927184796</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,32 +572,32 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="gitignore" />
-    <MESSAGE value="png" />
-    <MESSAGE value="删除" />
-    <MESSAGE value="随机20个学生" />
-    <MESSAGE value="Readme" />
-    <MESSAGE value="Project" />
-    <MESSAGE value="学校作业" />
-    <MESSAGE value="Student step -1 复制BubbleSort" />
-    <MESSAGE value="Student step -2 数据名由arr改为students" />
-    <MESSAGE value="Student step -2 数据类型由int改为Student" />
-    <MESSAGE value="Change" />
-    <MESSAGE value="encapsulation - singleton basic" />
-    <MESSAGE value="encapsulation - singleton basic - private(err)&#10;&#10;把构造器私有化，不能直接在Test 中 new出来" />
-    <MESSAGE value="encapsulation - singleton basic - private 思考&#10;把构造器私有化 -&gt; 问题 -&gt; 外部不能new -&gt; 在哪里new？" />
-    <MESSAGE value="encapsulation - singleton basic - private  在state new(err)" />
-    <MESSAGE value="encapsulation - singleton basic - private  在state new - static&#10;&#10;在new前加static使外部能直接调用new出的东西，前面已经提前加了，应该在这一步再加static" />
-    <MESSAGE value="encapsulation - singleton basic - private  在state new - static 完成" />
-    <MESSAGE value="encapsulation - singleton basic - private +static  在外部多次调用&#10;&#10;进一步，验证在外部多次调用，还是不是同一个对象" />
-    <MESSAGE value="encapsulation - singleton basic - private +static - instance&#10;&#10;把数据名从Student改为Instance" />
-    <MESSAGE value="encapsulation - singleton basic - 解决上一个问题 - step1 (err)&#10;&#10;在new前加private，这步忘加了，在step3里加上了" />
     <MESSAGE value="encapsulation - singleton basic - 解决上一个问题 - step2 用return引用返回值instance" />
     <MESSAGE value="encapsulation - singleton basic - 解决上一个问题 - step3 加入静态值static可以在外部直接引用&#10;并且把step1忘加的private加上了" />
     <MESSAGE value="encapsulation - singleton basic - final" />
     <MESSAGE value="encapsulation - singleton basic - final&#10;&#10;如果一个变量被赋值一次之后不允许在修改，就可以用final关键字修饰他" />
     <MESSAGE value="Circle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Circle" />
+    <MESSAGE value="Order" />
+    <MESSAGE value="Student" />
+    <MESSAGE value="Overload" />
+    <MESSAGE value="VarargsTest" />
+    <MESSAGE value="NewRequirements" />
+    <MESSAGE value="HelloWorld" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="Readme" />
+    <MESSAGE value="png" />
+    <MESSAGE value="斐波那契数列" />
+    <MESSAGE value="石头剪刀布 OOP" />
+    <MESSAGE value="石头剪刀布" />
+    <MESSAGE value="README" />
+    <MESSAGE value="img" />
+    <MESSAGE value="最初版石头剪刀布改名" />
+    <MESSAGE value="从1加到100" />
+    <MESSAGE value="死循环" />
+    <MESSAGE value="删除" />
+    <MESSAGE value="从牌堆里找一张牌" />
+    <MESSAGE value="猜彩票游戏，存在bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="猜彩票游戏，存在bug" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
