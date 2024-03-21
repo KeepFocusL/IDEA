@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bf57827-6130-4320-9e9d-5e83855d611d" name="更改" comment="Project">
-      <change afterPath="$PROJECT_DIR$/Project/src/day240313/img/AccessModifiers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240313/img/Declaring Classes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240313/img/Temp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240313/img/VariableNames.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240313/img/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240313/img/img_6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project" beforeDir="false" afterPath="$PROJECT_DIR$/Project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project/src/day240313/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Project/src/day240313/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,14 +202,7 @@
       <workItem from="1710953579424" duration="126000" />
       <workItem from="1711000216727" duration="2029000" />
       <workItem from="1711002498848" duration="1154000" />
-      <workItem from="1711003676867" duration="8859000" />
-    </task>
-    <task id="LOCAL-00038" summary="encapsulation - singleton basic - private(err)&#10;&#10;把构造器私有化，不能直接在Test 中 new出来">
-      <created>1710038770119</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1710038770119</updated>
+      <workItem from="1711003676867" duration="9157000" />
     </task>
     <task id="LOCAL-00039" summary="encapsulation - singleton basic - private 思考&#10;把构造器私有化 -&gt; 问题 -&gt; 外部不能new -&gt; 在哪里new？">
       <created>1710038911057</created>
@@ -554,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710953593316</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Project">
+      <created>1711019894182</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1711019894182</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
