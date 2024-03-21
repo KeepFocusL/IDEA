@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bf57827-6130-4320-9e9d-5e83855d611d" name="更改" comment="猜彩票游戏，存在bug">
-      <change afterPath="$PROJECT_DIR$/Project/src/day240317/poker/Deck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/src/day240317/poker/DisplayDeck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7bf57827-6130-4320-9e9d-5e83855d611d" name="更改" comment="Project">
+      <change afterPath="$PROJECT_DIR$/Project/src/day240313/img/AccessModifiers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240313/img/Declaring Classes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240313/img/Temp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240313/img/VariableNames.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240313/img/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240313/img/img_6.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/src/day240317/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Project/src/day240317/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/src/day240313/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Project/src/day240313/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,26 +46,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/code1/java/lxh-se/lxh-se/Project/src/day240313",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "copyright.profiles",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code1/java/lxh-se/lxh-se/Project/src/day240313&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240313" />
@@ -73,11 +75,11 @@
       <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240306\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240313\img" />
       <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240317\img" />
       <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240315\img" />
       <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240308\encapsulation\access_control" />
       <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240308\img" />
-      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240308\encapsulation" />
     </key>
   </component>
   <component name="RunManager" selected="Application.DisplayDeck">
@@ -202,56 +204,12 @@
       <workItem from="1710576356541" duration="4437000" />
       <workItem from="1710637264066" duration="24812000" />
       <workItem from="1710755811478" duration="8116000" />
-      <workItem from="1710924311227" duration="2890000" />
-    </task>
-    <task id="LOCAL-00031" summary="Project">
-      <created>1709646233095</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1709646233095</updated>
-    </task>
-    <task id="LOCAL-00032" summary="学校作业">
-      <created>1709646626482</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1709646626482</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Student step -1 复制BubbleSort">
-      <created>1709725118659</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1709725118659</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Student step -2 数据名由arr改为students">
-      <created>1709725253752</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1709725253752</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Student step -2 数据类型由int改为Student">
-      <created>1709725413226</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1709725413226</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Change">
-      <created>1709885485432</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1709885485432</updated>
-    </task>
-    <task id="LOCAL-00037" summary="encapsulation - singleton basic">
-      <created>1710038664013</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1710038664013</updated>
+      <workItem from="1710924311227" duration="3677000" />
+      <workItem from="1710942041554" duration="6232000" />
+      <workItem from="1710953579424" duration="126000" />
+      <workItem from="1711000216727" duration="2029000" />
+      <workItem from="1711002498848" duration="1154000" />
+      <workItem from="1711003676867" duration="8859000" />
     </task>
     <task id="LOCAL-00038" summary="encapsulation - singleton basic - private(err)&#10;&#10;把构造器私有化，不能直接在Test 中 new出来">
       <created>1710038770119</created>
@@ -547,7 +505,56 @@
       <option name="project" value="LOCAL" />
       <updated>1710927184796</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="显示一副完整的扑克牌">
+      <created>1710927350106</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1710927350106</updated>
+    </task>
+    <task id="LOCAL-00081" summary="README">
+      <created>1710927361224</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1710927361225</updated>
+    </task>
+    <task id="LOCAL-00082" summary=".xml">
+      <created>1710927399532</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1710927399532</updated>
+    </task>
+    <task id="LOCAL-00083" summary=".git">
+      <created>1710927405763</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1710927405763</updated>
+    </task>
+    <task id="LOCAL-00084" summary="png">
+      <created>1710953058556</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1710953058557</updated>
+    </task>
+    <task id="LOCAL-00085" summary="README">
+      <created>1710953077529</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1710953077529</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Project">
+      <created>1710953593316</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1710953593316</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,10 +579,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="encapsulation - singleton basic - 解决上一个问题 - step2 用return引用返回值instance" />
-    <MESSAGE value="encapsulation - singleton basic - 解决上一个问题 - step3 加入静态值static可以在外部直接引用&#10;并且把step1忘加的private加上了" />
-    <MESSAGE value="encapsulation - singleton basic - final" />
-    <MESSAGE value="encapsulation - singleton basic - final&#10;&#10;如果一个变量被赋值一次之后不允许在修改，就可以用final关键字修饰他" />
     <MESSAGE value="Circle" />
     <MESSAGE value="Order" />
     <MESSAGE value="Student" />
@@ -585,11 +588,9 @@
     <MESSAGE value="HelloWorld" />
     <MESSAGE value="commit" />
     <MESSAGE value="Readme" />
-    <MESSAGE value="png" />
     <MESSAGE value="斐波那契数列" />
     <MESSAGE value="石头剪刀布 OOP" />
     <MESSAGE value="石头剪刀布" />
-    <MESSAGE value="README" />
     <MESSAGE value="img" />
     <MESSAGE value="最初版石头剪刀布改名" />
     <MESSAGE value="从1加到100" />
@@ -597,7 +598,13 @@
     <MESSAGE value="删除" />
     <MESSAGE value="从牌堆里找一张牌" />
     <MESSAGE value="猜彩票游戏，存在bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="猜彩票游戏，存在bug" />
+    <MESSAGE value="显示一副完整的扑克牌" />
+    <MESSAGE value=".xml" />
+    <MESSAGE value=".git" />
+    <MESSAGE value="png" />
+    <MESSAGE value="README" />
+    <MESSAGE value="Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
