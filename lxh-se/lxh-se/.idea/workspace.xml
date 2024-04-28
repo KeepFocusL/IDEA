@@ -4,14 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bf57827-6130-4320-9e9d-5e83855d611d" name="更改" comment="Project">
+    <list default="true" id="7bf57827-6130-4320-9e9d-5e83855d611d" name="更改" comment="README">
+      <change afterPath="$PROJECT_DIR$/Project/src/day240324/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240410/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240420/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/day240424/JsoupDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jsoup-1.17.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project" beforeDir="false" afterPath="$PROJECT_DIR$/Project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/src/day240313/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Project/src/day240313/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/src/day240324/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Project/src/day240324/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/src/day240410/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Project/src/day240410/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxh-se.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lxh-se.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,49 +53,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/code1/java/lxh-se/lxh-se/Project/src/day240313&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/code1/java/lxh-se/lxh-se/lib",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Colors",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code1\java\lxh-se\lxh-se\lib" />
+      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240321" />
       <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240313" />
       <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240317\img" />
       <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240308\encapsulation" />
-      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240308" />
-      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240306\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code1\java\lxh-se\lxh-se\lib" />
+      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240324\img" />
       <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240313\img" />
-      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240317\img" />
-      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240315\img" />
-      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240308\encapsulation\access_control" />
-      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240308\img" />
+      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240322" />
+      <recent name="D:\code1\java\lxh-se\lxh-se\Project\src\day240321" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DisplayDeck">
-    <configuration name="Card" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day240317.poker.Card" />
+  <component name="RunManager" selected="JavaScript Debug.test.html">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.BubbleSort" />
       <module name="lxh-se" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day240317.poker.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisplayDeck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day240317.poker.DisplayDeck" />
+    <configuration name="DisplayPhoneNumberTest11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.DisplayPhoneNumberTest11" />
       <module name="lxh-se" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day240317.poker.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,34 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LotteryTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SHomeWork.h3.LotteryTicket" />
-      <module name="lxh-se" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SHomeWork.h3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LotteryTicket1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SHomeWork.h3.LotteryTicket1" />
-      <module name="lxh-se" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SHomeWork.h3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecursionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day240313.RecursionTest" />
+    <configuration name="FibonacciTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day240313.FibonacciTest" />
       <module name="lxh-se" />
       <extension name="coverage">
         <pattern>
@@ -141,13 +129,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="day240324.lonelyoop.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day240324.lonelyoop.Test" />
+      <module name="lxh-se" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day240324.lonelyoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lxh-se/RESUME/test.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DisplayDeck" />
-        <item itemvalue="Application.Card" />
-        <item itemvalue="Application.RecursionTest" />
-        <item itemvalue="Application.LotteryTicket1" />
-        <item itemvalue="Application.LotteryTicket" />
+        <item itemvalue="JavaScript Debug.test.html" />
+        <item itemvalue="Application.FibonacciTest" />
+        <item itemvalue="Application.day240324.lonelyoop.Test" />
+        <item itemvalue="Application.DisplayPhoneNumberTest11" />
+        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -202,352 +206,380 @@
       <workItem from="1710953579424" duration="126000" />
       <workItem from="1711000216727" duration="2029000" />
       <workItem from="1711002498848" duration="1154000" />
-      <workItem from="1711003676867" duration="9157000" />
+      <workItem from="1711003676867" duration="14096000" />
+      <workItem from="1711095476521" duration="1415000" />
+      <workItem from="1711103682791" duration="9359000" />
+      <workItem from="1711184079088" duration="7628000" />
+      <workItem from="1711194787521" duration="448000" />
+      <workItem from="1711242256464" duration="20166000" />
+      <workItem from="1711536961519" duration="8577000" />
+      <workItem from="1711613592908" duration="10896000" />
+      <workItem from="1711709519141" duration="1242000" />
+      <workItem from="1711716168932" duration="658000" />
+      <workItem from="1711719303098" duration="723000" />
+      <workItem from="1711876034507" duration="607000" />
+      <workItem from="1711972616116" duration="7834000" />
+      <workItem from="1712735231574" duration="8029000" />
+      <workItem from="1712748907897" duration="3203000" />
+      <workItem from="1712810824398" duration="47000" />
+      <workItem from="1712812736235" duration="9000" />
+      <workItem from="1712814941311" duration="5072000" />
+      <workItem from="1713017090643" duration="7000" />
+      <workItem from="1713063832776" duration="3000" />
+      <workItem from="1713098090158" duration="8000" />
+      <workItem from="1713098114295" duration="641000" />
+      <workItem from="1713428310427" duration="2007000" />
+      <workItem from="1713525803100" duration="659000" />
+      <workItem from="1713529691817" duration="609000" />
+      <workItem from="1713579586001" duration="5335000" />
+      <workItem from="1713850837136" duration="1059000" />
+      <workItem from="1713857096679" duration="10624000" />
+      <workItem from="1714223398694" duration="4064000" />
     </task>
-    <task id="LOCAL-00039" summary="encapsulation - singleton basic - private 思考&#10;把构造器私有化 -&gt; 问题 -&gt; 外部不能new -&gt; 在哪里new？">
-      <created>1710038911057</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
+    <task id="LOCAL-00090" summary="README">
+      <created>1711105627655</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
       <option name="project" value="LOCAL" />
-      <updated>1710038911057</updated>
+      <updated>1711105627655</updated>
     </task>
-    <task id="LOCAL-00040" summary="encapsulation - singleton basic - private  在state new(err)">
-      <created>1710039065159</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
+    <task id="LOCAL-00091" summary="rule-1&#10;&#10;重写方法，父类被重写的方法与子类重写的方法名和形参列表types必须相同">
+      <created>1711108490665</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
       <option name="project" value="LOCAL" />
-      <updated>1710039065159</updated>
+      <updated>1711108490665</updated>
     </task>
-    <task id="LOCAL-00041" summary="encapsulation - singleton basic - private  在state new - static&#10;&#10;在new前加static使外部能直接调用new出的东西，前面已经提前加了，应该在这一步再加static">
-      <created>1710039240210</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
+    <task id="LOCAL-00092" summary="rule-2&#10;&#10;子类重写的方法的权限修饰符不小于父类被重写的方法的权限修饰符">
+      <created>1711108538485</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
       <option name="project" value="LOCAL" />
-      <updated>1710039240210</updated>
+      <updated>1711108538485</updated>
     </task>
-    <task id="LOCAL-00042" summary="encapsulation - singleton basic - private  在state new - static 完成">
-      <created>1710039412691</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
+    <task id="LOCAL-00093" summary="rule-2&#10;&#10;子类重写的方法的权限修饰符不小于父类被重写的方法的权限修饰符">
+      <created>1711108717157</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
       <option name="project" value="LOCAL" />
-      <updated>1710039412691</updated>
+      <updated>1711108717157</updated>
     </task>
-    <task id="LOCAL-00043" summary="encapsulation - singleton basic - private  在state new - static 在外部多次调用&#10;&#10;进一步，验证在外部多次调用，还是不是同一个对象">
-      <created>1710039522116</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
+    <task id="LOCAL-00094" summary="rule-3&#10;&#10;子类不能重写父类中声明为private权限修饰的方法">
+      <created>1711108818467</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
       <option name="project" value="LOCAL" />
-      <updated>1710039522116</updated>
+      <updated>1711108818467</updated>
     </task>
-    <task id="LOCAL-00044" summary="encapsulation - singleton basic - private  在state new - static - Instance&#10;&#10;把数据名从Student改为Instance">
-      <created>1710041548462</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
+    <task id="LOCAL-00095" summary="rule-3&#10;&#10;子类不能重写父类中声明为private权限修饰的方法">
+      <created>1711109568592</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
       <option name="project" value="LOCAL" />
-      <updated>1710041548462</updated>
+      <updated>1711109568592</updated>
     </task>
-    <task id="LOCAL-00045" summary="encapsulation - singleton basic - 解决上一个问题 - step1 (err)">
-      <created>1710042229708</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
+    <task id="LOCAL-00096" summary="override_rule - 4(error)&#10;&#10;父类被重写的方法的返回值类型是void，则子类重写的方法的返回类型必须是void">
+      <created>1711184965720</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
       <option name="project" value="LOCAL" />
-      <updated>1710042229708</updated>
+      <updated>1711184965720</updated>
     </task>
-    <task id="LOCAL-00046" summary="encapsulation - singleton basic - 解决上一个问题 - step2 用return引用返回值instance">
-      <created>1710042294068</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
+    <task id="LOCAL-00097" summary="override_rule - 4(error)&#10;&#10;父类被重写的方法的返回值类型是void，则子类重写的方法的返回类型必须是void">
+      <created>1711185068719</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
       <option name="project" value="LOCAL" />
-      <updated>1710042294068</updated>
+      <updated>1711185068719</updated>
     </task>
-    <task id="LOCAL-00047" summary="encapsulation - singleton basic - 解决上一个问题 - step3 加入静态值static可以在外部直接引用&#10;并且把step1忘加的private加上了">
-      <created>1710042669487</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
+    <task id="LOCAL-00098" summary="override_rule - 5(error)&#10;&#10;父类被重写的方法的返回值类型是基础数据类型，则子类重写的方法的返回值类型必须与被重写的方法的返回值类型相同">
+      <created>1711192144718</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
       <option name="project" value="LOCAL" />
-      <updated>1710042669487</updated>
+      <updated>1711192144718</updated>
     </task>
-    <task id="LOCAL-00048" summary="encapsulation - singleton basic - final&#10;&#10;如果一个变量被赋值一次之后不允许在修改，就可以用final关键字修饰他">
-      <created>1710042766282</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
+    <task id="LOCAL-00099" summary="override_rule - 6&#10;&#10;return type reference type">
+      <created>1711193592027</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
       <option name="project" value="LOCAL" />
-      <updated>1710042766282</updated>
+      <updated>1711193592027</updated>
     </task>
-    <task id="LOCAL-00049" summary="Circle">
-      <created>1710054622328</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
+    <task id="LOCAL-00100" summary="override_rule - 6&#10;&#10;父类被重写的方法的返回值类型是引用数据类型(比如类),则子类重写的方法的返回值类型可以与被重写的方法的返回值类型相同，或是被重写的方法的返回值类型的子类&#10;(可以是相同的Animal，或者是Animal的子类Dog或Cat)">
+      <created>1711194409657</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
       <option name="project" value="LOCAL" />
-      <updated>1710054622328</updated>
+      <updated>1711194409657</updated>
     </task>
-    <task id="LOCAL-00050" summary="Readme">
-      <created>1710054676797</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
+    <task id="LOCAL-00101" summary="img">
+      <created>1711194919155</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
       <option name="project" value="LOCAL" />
-      <updated>1710054676798</updated>
+      <updated>1711194919155</updated>
     </task>
-    <task id="LOCAL-00051" summary="commit">
-      <created>1710054698742</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
+    <task id="LOCAL-00102" summary="img">
+      <created>1711194929164</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
       <option name="project" value="LOCAL" />
-      <updated>1710054698742</updated>
+      <updated>1711194929164</updated>
     </task>
-    <task id="LOCAL-00052" summary="img">
-      <created>1710054715486</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
+    <task id="LOCAL-00103" summary="README">
+      <created>1711195011550</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
       <option name="project" value="LOCAL" />
-      <updated>1710054715486</updated>
+      <updated>1711195011550</updated>
     </task>
-    <task id="LOCAL-00053" summary="Order">
-      <created>1710054738001</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
+    <task id="LOCAL-00104" summary="img">
+      <created>1711195152528</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
       <option name="project" value="LOCAL" />
-      <updated>1710054738001</updated>
+      <updated>1711195152528</updated>
     </task>
-    <task id="LOCAL-00054" summary="Student">
-      <created>1710054758675</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
+    <task id="LOCAL-00105" summary="OOAD a person adopted a cat">
+      <created>1711245478144</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
       <option name="project" value="LOCAL" />
-      <updated>1710054758675</updated>
+      <updated>1711245478144</updated>
     </task>
-    <task id="LOCAL-00055" summary="Overload">
-      <created>1710054771265</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
+    <task id="LOCAL-00106" summary="OOAD a person adopted a dog">
+      <created>1711245674428</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
       <option name="project" value="LOCAL" />
-      <updated>1710054771265</updated>
+      <updated>1711245674428</updated>
     </task>
-    <task id="LOCAL-00056" summary="VarargsTest">
-      <created>1710054793162</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
+    <task id="LOCAL-00107" summary="OOAD a person adopted a pig">
+      <created>1711246396796</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
       <option name="project" value="LOCAL" />
-      <updated>1710054793162</updated>
+      <updated>1711246396796</updated>
     </task>
-    <task id="LOCAL-00057" summary="NewRequirements">
-      <created>1710054806285</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
+    <task id="LOCAL-00108" summary="不改变Person的方法">
+      <created>1711247370781</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
       <option name="project" value="LOCAL" />
-      <updated>1710054806285</updated>
+      <updated>1711247370781</updated>
     </task>
-    <task id="LOCAL-00058" summary="HelloWorld">
-      <created>1710054815126</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
+    <task id="LOCAL-00109" summary="不改变Person的方法">
+      <created>1711247403318</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
       <option name="project" value="LOCAL" />
-      <updated>1710054815126</updated>
+      <updated>1711247403318</updated>
     </task>
-    <task id="LOCAL-00059" summary="commit">
-      <created>1710054824632</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
+    <task id="LOCAL-00110" summary="只修改Test就能增加动物">
+      <created>1711247449741</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
       <option name="project" value="LOCAL" />
-      <updated>1710054824632</updated>
+      <updated>1711247449741</updated>
     </task>
-    <task id="LOCAL-00060" summary="png">
-      <created>1710160056575</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
+    <task id="LOCAL-00111" summary="不增加Person的方法">
+      <created>1711249012082</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
       <option name="project" value="LOCAL" />
-      <updated>1710160056576</updated>
+      <updated>1711249012082</updated>
     </task>
-    <task id="LOCAL-00061" summary="Readme">
-      <created>1710160065513</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
+    <task id="LOCAL-00112" summary="建立一个新class并且extends Animal可以不修改Person直接获取目标">
+      <created>1711249190756</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
       <option name="project" value="LOCAL" />
-      <updated>1710160065513</updated>
+      <updated>1711249190756</updated>
     </task>
-    <task id="LOCAL-00062" summary="石头剪刀布">
-      <created>1710260069319</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
+    <task id="LOCAL-00113" summary="建立一个新class并且extends Animal可以不修改Person直接获取目标">
+      <created>1711262607205</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
       <option name="project" value="LOCAL" />
-      <updated>1710260069319</updated>
+      <updated>1711262607205</updated>
     </task>
-    <task id="LOCAL-00063" summary="png">
-      <created>1710577039000</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
+    <task id="LOCAL-00114" summary="describeLonely 轮廓">
+      <created>1711269806005</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
       <option name="project" value="LOCAL" />
-      <updated>1710577039000</updated>
+      <updated>1711269806005</updated>
     </task>
-    <task id="LOCAL-00064" summary="斐波那契数列">
-      <created>1710577052672</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
+    <task id="LOCAL-00115" summary="e 2 - describeLonely 增加参数">
+      <created>1711270046890</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
       <option name="project" value="LOCAL" />
-      <updated>1710577052672</updated>
+      <updated>1711270046890</updated>
     </task>
-    <task id="LOCAL-00065" summary="石头剪刀布">
-      <created>1710644088840</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
+    <task id="LOCAL-00116" summary="e 3 - describeLonely 测试不同学生的描述">
+      <created>1711270305539</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
       <option name="project" value="LOCAL" />
-      <updated>1710644088840</updated>
+      <updated>1711270305539</updated>
     </task>
-    <task id="LOCAL-00066" summary="石头剪刀布">
-      <created>1710645679930</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
+    <task id="LOCAL-00117" summary="e 4 - Person@describeLonely&#10;可以什么都不做">
+      <created>1711270389132</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
       <option name="project" value="LOCAL" />
-      <updated>1710645679930</updated>
+      <updated>1711270389132</updated>
     </task>
-    <task id="LOCAL-00067" summary="石头剪刀布 OOP">
-      <created>1710654009074</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
+    <task id="LOCAL-00118" summary="e 5 - Person@describeLonely&#10;理想的样子 - error">
+      <created>1711270435524</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
       <option name="project" value="LOCAL" />
-      <updated>1710654009074</updated>
+      <updated>1711270435525</updated>
     </task>
-    <task id="LOCAL-00068" summary="石头剪刀布 OOP">
-      <created>1710654020536</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
+    <task id="LOCAL-00119" summary="e 6 - fix error - 引出 abstract&#10;&#10;- 可以用 abstract 关键字把方法声明成抽象的&#10;&#10;- 类中有抽象的方法，该类也必须声明成抽象的">
+      <created>1711270459409</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
       <option name="project" value="LOCAL" />
-      <updated>1710654020536</updated>
+      <updated>1711270459409</updated>
     </task>
-    <task id="LOCAL-00069" summary="石头剪刀布 OOP">
-      <created>1710654648524</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
+    <task id="LOCAL-00120" summary="e 7 - add judgeXDD">
+      <created>1711270508403</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
       <option name="project" value="LOCAL" />
-      <updated>1710654648524</updated>
+      <updated>1711270508403</updated>
     </task>
-    <task id="LOCAL-00070" summary="石头剪刀布">
-      <created>1710654697510</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
+    <task id="LOCAL-00121" summary="e 8 - add judgeXDD -error">
+      <created>1711270604646</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
       <option name="project" value="LOCAL" />
-      <updated>1710654697510</updated>
+      <updated>1711270604646</updated>
     </task>
-    <task id="LOCAL-00071" summary="README">
-      <created>1710665309109</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
+    <task id="LOCAL-00122" summary="e 9 - final judgeXDD - fix error">
+      <created>1711270645576</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
       <option name="project" value="LOCAL" />
-      <updated>1710665309109</updated>
+      <updated>1711270645576</updated>
     </task>
-    <task id="LOCAL-00072" summary="img">
-      <created>1710756101081</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
+    <task id="LOCAL-00123" summary="e 10 - test final judgeXDD&#10;&#10;打印不出来">
+      <created>1711270682899</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
       <option name="project" value="LOCAL" />
-      <updated>1710756101082</updated>
+      <updated>1711270682899</updated>
     </task>
-    <task id="LOCAL-00073" summary="img">
-      <created>1710926223965</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
+    <task id="LOCAL-00124" summary="img">
+      <created>1711270868668</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
       <option name="project" value="LOCAL" />
-      <updated>1710926223965</updated>
+      <updated>1711270868668</updated>
     </task>
-    <task id="LOCAL-00074" summary="最初版石头剪刀布改名">
-      <created>1710926261423</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
+    <task id="LOCAL-00125" summary="README">
+      <created>1711270882091</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
       <option name="project" value="LOCAL" />
-      <updated>1710926261423</updated>
+      <updated>1711270882091</updated>
     </task>
-    <task id="LOCAL-00075" summary="从1加到100">
-      <created>1710926406679</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
+    <task id="LOCAL-00126" summary="MyLonelyOop">
+      <created>1711270921633</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
       <option name="project" value="LOCAL" />
-      <updated>1710926406679</updated>
+      <updated>1711270921633</updated>
     </task>
-    <task id="LOCAL-00076" summary="死循环">
-      <created>1710926478853</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
+    <task id="LOCAL-00127" summary="img">
+      <created>1711635510351</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
       <option name="project" value="LOCAL" />
-      <updated>1710926478853</updated>
+      <updated>1711635510351</updated>
     </task>
-    <task id="LOCAL-00077" summary="删除">
-      <created>1710926530558</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
+    <task id="LOCAL-00128" summary="day240313 README">
+      <created>1711635530309</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
       <option name="project" value="LOCAL" />
-      <updated>1710926530558</updated>
+      <updated>1711635530309</updated>
     </task>
-    <task id="LOCAL-00078" summary="从牌堆里找一张牌">
-      <created>1710927098309</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
+    <task id="LOCAL-00129" summary="day240321 README">
+      <created>1711635540902</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
       <option name="project" value="LOCAL" />
-      <updated>1710927098309</updated>
+      <updated>1711635540902</updated>
     </task>
-    <task id="LOCAL-00079" summary="猜彩票游戏，存在bug">
-      <created>1710927184796</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
+    <task id="LOCAL-00130" summary="day240322 README">
+      <created>1711635549247</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
       <option name="project" value="LOCAL" />
-      <updated>1710927184796</updated>
+      <updated>1711635549247</updated>
     </task>
-    <task id="LOCAL-00080" summary="显示一副完整的扑克牌">
-      <created>1710927350106</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
+    <task id="LOCAL-00131" summary="day240324 README">
+      <created>1711635555290</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
       <option name="project" value="LOCAL" />
-      <updated>1710927350106</updated>
+      <updated>1711635555290</updated>
     </task>
-    <task id="LOCAL-00081" summary="README">
-      <created>1710927361224</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
+    <task id="LOCAL-00132" summary="img">
+      <created>1711635563784</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
       <option name="project" value="LOCAL" />
-      <updated>1710927361225</updated>
+      <updated>1711635563784</updated>
     </task>
-    <task id="LOCAL-00082" summary=".xml">
-      <created>1710927399532</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
+    <task id="LOCAL-00133" summary="img">
+      <created>1712739370980</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
       <option name="project" value="LOCAL" />
-      <updated>1710927399532</updated>
+      <updated>1712739370980</updated>
     </task>
-    <task id="LOCAL-00083" summary=".git">
-      <created>1710927405763</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
+    <task id="LOCAL-00134" summary="README">
+      <created>1712739378263</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
       <option name="project" value="LOCAL" />
-      <updated>1710927405763</updated>
+      <updated>1712739378263</updated>
     </task>
-    <task id="LOCAL-00084" summary="png">
-      <created>1710953058556</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
+    <task id="LOCAL-00135" summary="README">
+      <created>1712739482180</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
       <option name="project" value="LOCAL" />
-      <updated>1710953058557</updated>
+      <updated>1712739482180</updated>
     </task>
-    <task id="LOCAL-00085" summary="README">
-      <created>1710953077529</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
+    <task id="LOCAL-00136" summary="输入项目进入部门">
+      <created>1712740054134</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
       <option name="project" value="LOCAL" />
-      <updated>1710953077529</updated>
+      <updated>1712740054134</updated>
     </task>
-    <task id="LOCAL-00086" summary="Project">
-      <created>1710953593316</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
+    <task id="LOCAL-00137" summary="change README">
+      <created>1712814993521</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
       <option name="project" value="LOCAL" />
-      <updated>1710953593316</updated>
+      <updated>1712814993521</updated>
     </task>
-    <task id="LOCAL-00087" summary="Project">
-      <created>1711019894182</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
+    <task id="LOCAL-00138" summary="README">
+      <created>1713098139127</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
       <option name="project" value="LOCAL" />
-      <updated>1711019894182</updated>
+      <updated>1713098139127</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <option name="localTasksCounter" value="139" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,33 +603,35 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Circle" />
-    <MESSAGE value="Order" />
-    <MESSAGE value="Student" />
-    <MESSAGE value="Overload" />
-    <MESSAGE value="VarargsTest" />
-    <MESSAGE value="NewRequirements" />
-    <MESSAGE value="HelloWorld" />
-    <MESSAGE value="commit" />
-    <MESSAGE value="Readme" />
-    <MESSAGE value="斐波那契数列" />
-    <MESSAGE value="石头剪刀布 OOP" />
-    <MESSAGE value="石头剪刀布" />
+    <MESSAGE value="OOAD - person adopted a dog" />
+    <MESSAGE value="OOAD - person adopted a pig" />
+    <MESSAGE value="不改变Person的方法" />
+    <MESSAGE value="只修改Test就能增加动物" />
+    <MESSAGE value="不增加Person的方法" />
+    <MESSAGE value="建立一个新class并且extends Animal可以不修改Person直接获取目标" />
+    <MESSAGE value="e 1 - describeLonely 重写" />
+    <MESSAGE value="e 2 - describeLonely 增加参数" />
+    <MESSAGE value="e 3 - describeLonely 测试不同学生的描述" />
+    <MESSAGE value="e 4 - Person@describeLonely&#10;可以什么都不做" />
+    <MESSAGE value="e 5 - Person@describeLonely&#10;理想的样子 - error" />
+    <MESSAGE value="e 6 - fix error - 引出 abstract&#10;&#10;- 可以用 abstract 关键字把方法声明成抽象的&#10;&#10;- 类中有抽象的方法，该类也必须声明成抽象的" />
+    <MESSAGE value="e 7 - add judgeXDD" />
+    <MESSAGE value="e 8 - add judgeXDD -error" />
+    <MESSAGE value="e 9 - final judgeXDD - fix error" />
+    <MESSAGE value="e 10 - test final judgeXDD&#10;&#10;打印不出来" />
+    <MESSAGE value="MyLonelyOop" />
+    <MESSAGE value="day240313 README" />
+    <MESSAGE value="day240321 README" />
+    <MESSAGE value="day240322 README" />
+    <MESSAGE value="day240324 README" />
     <MESSAGE value="img" />
-    <MESSAGE value="最初版石头剪刀布改名" />
-    <MESSAGE value="从1加到100" />
-    <MESSAGE value="死循环" />
-    <MESSAGE value="删除" />
-    <MESSAGE value="从牌堆里找一张牌" />
-    <MESSAGE value="猜彩票游戏，存在bug" />
-    <MESSAGE value="显示一副完整的扑克牌" />
-    <MESSAGE value=".xml" />
-    <MESSAGE value=".git" />
-    <MESSAGE value="png" />
+    <MESSAGE value="输入项目进入部门" />
+    <MESSAGE value="change README" />
     <MESSAGE value="README" />
-    <MESSAGE value="Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="README" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
