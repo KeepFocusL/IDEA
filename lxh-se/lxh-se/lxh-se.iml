@@ -9,5 +9,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="jsoup-1.17.2" level="project" />
+    <orderEntry type="library" name="angus-mail-2.0.2" level="project" />
   </component>
 </module>
