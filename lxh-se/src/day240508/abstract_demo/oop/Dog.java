@@ -7,5 +7,7 @@ public abstract class Dog extends Animal {
         super(name);
     }
 
+    @Override
+    public final void into(){}
 
 }
