@@ -6,5 +6,5 @@ public abstract class Animal {
         this.name = name;
     }
 
-    public abstract void info();
+    public abstract final void info();
 }
