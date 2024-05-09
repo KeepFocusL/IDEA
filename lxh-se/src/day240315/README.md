@@ -1,7 +1,5 @@
 ## Constants(常数)=final
 * Constants a = 1
-* final用在static中
-* static类 局部变量
 ## state(field)，instance block ，Initializing = 成员变量
 ![90400a6554e6b6a569d9d57913216aa.png](img%2F90400a6554e6b6a569d9d57913216aa.png)
 * filed在其他语言=var(变量)
