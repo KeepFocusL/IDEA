@@ -1,6 +1,6 @@
 package day240512.p;
 
-public class TV extends MyObjectUtil {
+public class TV extends MyComparable {
     //TV[]（按价格 price）
     double price;
 
@@ -18,7 +18,7 @@ public class TV extends MyObjectUtil {
 
 
     @Override
-    public int compareTo(MyObjectUtil myObjectUtil) {
+    public int compareTo(MyComparable myComparable) {
         return 0;
     }
 }

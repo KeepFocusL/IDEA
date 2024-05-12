@@ -1,6 +1,6 @@
 package day240512.p;
 
-public class Room extends MyObjectUtil{
+public class Room extends MyComparable {
     //Room[]（按面积 area）
     int area;
     public Room(int area){
@@ -15,7 +15,7 @@ public class Room extends MyObjectUtil{
     }
 
     @Override
-    public int compareTo(MyObjectUtil myObjectUtil) {
+    public int compareTo(MyComparable myComparable) {
         return 0;
     }
 }

@@ -1,6 +1,6 @@
 package day240512.p;
 
-public class Student extends MyObjectUtil {
+public class Student extends MyComparable {
     String name;
     int age;
 
@@ -14,8 +14,8 @@ public class Student extends MyObjectUtil {
         return this.name + "(" + this.age + ")";
     }
 
-    public int compareTo(MyObjectUtil myObjectUtil) {
-        Student student = (Student) myObjectUtil;
+    public int compareTo(MyComparable myComparable) {
+        Student student = (Student) myComparable;
         if (this.age == student.age) {
             return 0;
         } else if (this.age > student.age) {

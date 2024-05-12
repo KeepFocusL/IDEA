@@ -1,6 +1,6 @@
 package day240512.p;
 
-public class Dog extends MyObjectUtil {
+public class Dog extends MyComparable {
     //Dog[]（按体重 weight）
     String name;
     double weight;
@@ -18,7 +18,7 @@ public class Dog extends MyObjectUtil {
 
 
     @Override
-    public int compareTo(MyObjectUtil myObjectUtil) {
+    public int compareTo(MyComparable myComparable) {
         return 0;
     }
 }
