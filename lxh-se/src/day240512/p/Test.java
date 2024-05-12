@@ -6,7 +6,7 @@ package day240512.p;
 public class Test {
     public static void main(String[] args) {
         // 需求：支持排序 int[]
-        int[] intArr = new int[] {5, 3, 9, 2, 1};
+        int[] intArr = new int[]{5, 3, 9, 2, 1};
         MySortUtil.sort(intArr);
         MySortUtil.print(intArr);
 
@@ -22,6 +22,13 @@ public class Test {
 
         // 新需求：
         // 支持排序 Dog[]（按体重 weight）
+        Dog[] dogArr = new Dog[size];
+        for (int i = 0; i < size; i++) {
+            dogArr[i] = new Dog("dog-" + i, 6.0 - i);
+        }
+        MySortUtil.print(dogArr);
+        MySortUtil.sort(dogArr);
+        MySortUtil.print(dogArr);
         // 支持排序 TV[]（按价格 price）
         // 支持排序 Room[]（按面积 area）
         // 以及任何其他类型...
