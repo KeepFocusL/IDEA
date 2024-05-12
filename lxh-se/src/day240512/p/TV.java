@@ -6,7 +6,7 @@ public class TV extends MyObjectUtil {
 
     public TV(double price) {
         this.price = price;
-        this.xxx = this.price;
+
     }
 
     @Override
@@ -14,5 +14,11 @@ public class TV extends MyObjectUtil {
         return "TV{" +
                 "price=" + price +
                 '}';
+    }
+
+
+    @Override
+    public int compareTo(MyObjectUtil myObjectUtil) {
+        return 0;
     }
 }

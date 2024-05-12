@@ -5,7 +5,6 @@ public class Room extends MyObjectUtil{
     int area;
     public Room(int area){
         this.area=area;
-        this.xxx=this.area;
     }
 
     @Override
@@ -13,5 +12,10 @@ public class Room extends MyObjectUtil{
         return "Room{" +
                 "area=" + area +
                 '}';
+    }
+
+    @Override
+    public int compareTo(MyObjectUtil myObjectUtil) {
+        return 0;
     }
 }

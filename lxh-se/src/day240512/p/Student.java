@@ -14,12 +14,14 @@ public class Student extends MyObjectUtil {
         return this.name + "(" + this.age + ")";
     }
 
-    @Override
-    public boolean isLargerThan(MyObjectUtil myObjectUtil) {
+    public int compareTo(MyObjectUtil myObjectUtil) {
         Student student = (Student) myObjectUtil;
-        if (this.age > student.age) {
-            return true;
+        if (this.age == student.age) {
+            return 0;
+        } else if (this.age > student.age) {
+            return 1;
+        } else {
+            return -1;
         }
-        return false;
     }
 }

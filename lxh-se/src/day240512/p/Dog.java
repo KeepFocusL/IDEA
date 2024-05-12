@@ -8,11 +8,17 @@ public class Dog extends MyObjectUtil {
     public Dog(String name, double weight) {
         this.name = name;
         this.weight = weight;
-        this.xxx = this.weight;
     }
 
     @Override
     public String toString() {
         return this.name + "(" + this.weight + ")";
+    }
+
+
+
+    @Override
+    public int compareTo(MyObjectUtil myObjectUtil) {
+        return 0;
     }
 }

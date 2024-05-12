@@ -36,7 +36,7 @@ public class MySortUtil {
         for (int i = 0; i < arr.length - 1; i++) {
             boolean swapped = false;
             for (int j = 0; j < (arr.length - 1) - i; j++) {
-                if (arr[j].isLargerThan(arr[j + 1]));
+                if (arr[j].compareTo(arr[j + 1]) > 0) ;
                 {
                     MyObjectUtil temp = arr[j];
                     arr[j] = arr[j + 1];
