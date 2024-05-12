@@ -19,5 +19,12 @@ public class Test {
         MySortUtil.print(studentArr);
         MySortUtil.sort(studentArr);
         MySortUtil.print(studentArr);
+
+        // 新需求：
+        // 支持排序 Dog[]（按体重 weight）
+        // 支持排序 TV[]（按价格 price）
+        // 支持排序 Room[]（按面积 area）
+        // 以及任何其他类型...
+        // 目标：让 MySortUtil 代码足够`稳定`，同时`可扩展`
     }
 }
