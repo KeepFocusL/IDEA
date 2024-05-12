@@ -5,6 +5,7 @@ public class Room extends MyObjectUtil{
     int area;
     public Room(int area){
         this.area=area;
+        this.xxx=this.area;
     }
 
     @Override
