@@ -1,5 +1,5 @@
 package day240512.p;
 
-public class MyObjectUtil {
-    double xxx;
+public abstract class MyObjectUtil {
+    public abstract boolean isLargerThan(MyObjectUtil myObjectUtil);
 }
