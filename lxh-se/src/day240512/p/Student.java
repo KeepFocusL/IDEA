@@ -1,6 +1,6 @@
 package day240512.p;
 
-public class Student implements MyComparable {
+public class Student implements Comparable {
     String name;
     int age;
 
@@ -14,8 +14,8 @@ public class Student implements MyComparable {
         return this.name + "(" + this.age + ")";
     }
 
-    public int compareTo(MyComparable myComparable) {
-        Student student = (Student) myComparable;
+    public int compareTo(Comparable Comparable) {
+        Student student = (Student) Comparable;
         if (this.age == student.age) {
             return 0;
         } else if (this.age > student.age) {

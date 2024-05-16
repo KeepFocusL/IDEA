@@ -1,6 +1,6 @@
 package day240512.p;
 
-public class Room implements MyComparable {
+public class Room implements Comparable {
     //Room[]（按面积 area）
     int area;
     public Room(int area){
@@ -15,7 +15,7 @@ public class Room implements MyComparable {
     }
 
     @Override
-    public int compareTo(MyComparable myComparable) {
+    public int compareTo(Comparable Comparable) {
         return 0;
     }
 }

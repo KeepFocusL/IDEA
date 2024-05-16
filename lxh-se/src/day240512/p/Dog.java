@@ -1,6 +1,6 @@
 package day240512.p;
 
-public class Dog implements MyComparable {
+public class Dog implements Comparable {
     //Dog[]（按体重 weight）
     String name;
     double weight;
@@ -18,7 +18,7 @@ public class Dog implements MyComparable {
 
 
     @Override
-    public int compareTo(MyComparable myComparable) {
+    public int compareTo(Comparable Comparable) {
         return 0;
     }
 }

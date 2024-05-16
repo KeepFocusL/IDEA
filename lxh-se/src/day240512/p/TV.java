@@ -1,6 +1,6 @@
 package day240512.p;
 
-public class TV implements MyComparable {
+public class TV implements Comparable {
     //TV[]（按价格 price）
     double price;
 
@@ -18,7 +18,7 @@ public class TV implements MyComparable {
 
 
     @Override
-    public int compareTo(MyComparable myComparable) {
+    public int compareTo(Comparable myComparable) {
         return 0;
     }
 }
