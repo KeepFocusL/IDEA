@@ -5,5 +5,10 @@ public class FinalVariable {
 
     public FinalVariable() {
         instanceVariable = 1;
+
+    }
+
+    public FinalVariable(int instanceVariable) {
+        this.instanceVariable = instanceVariable;
     }
 }
