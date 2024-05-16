@@ -37,4 +37,13 @@ public class FinalVariable {
         // Cannot assign a value to final variable 'x'
         //x++;
     }
+
+    public void parameterWithFinal(final MyClass myClass) {
+        //myClass.x++;
+        //myClass = new MyClass();
+    }
+}
+
+class MyClass {
+    int x;
 }
