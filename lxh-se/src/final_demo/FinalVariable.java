@@ -26,9 +26,15 @@ public class FinalVariable {
     static {
         CLASS_VARIABLE = 3;
     }
+
     public void localVariableWithFinal() {
         final int i = 9;
         // Cannot assign a value to final variable 'i'
         //i++;
+    }
+
+    public void parameterWithFinal(final int x) {
+        // Cannot assign a value to final variable 'x'
+        //x++;
     }
 }
