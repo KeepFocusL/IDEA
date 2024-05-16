@@ -2,6 +2,7 @@ package final_demo;
 
 public class FinalVariable {
     final int instanceVariable;
+    final static int classVariable = 8;
 
     public FinalVariable() {
         // 如果注释下面的代码，就类似于留了一个后门，
