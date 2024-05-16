@@ -1,6 +1,6 @@
 package day240512.p;
 
-public class TV extends MyComparable {
+public class TV implements MyComparable {
     //TV[]（按价格 price）
     double price;
 

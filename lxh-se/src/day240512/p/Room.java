@@ -1,6 +1,6 @@
 package day240512.p;
 
-public class Room extends MyComparable {
+public class Room implements MyComparable {
     //Room[]（按面积 area）
     int area;
     public Room(int area){

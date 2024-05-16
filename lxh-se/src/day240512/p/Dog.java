@@ -1,6 +1,6 @@
 package day240512.p;
 
-public class Dog extends MyComparable {
+public class Dog implements MyComparable {
     //Dog[]（按体重 weight）
     String name;
     double weight;
