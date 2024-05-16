@@ -4,7 +4,7 @@ public class FinalVariable {
     final int instanceVariable;
 
     public FinalVariable() {
-        instanceVariable = 1;
+        //instanceVariable = 1;
 
     }
 
