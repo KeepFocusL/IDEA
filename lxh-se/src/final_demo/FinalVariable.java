@@ -2,7 +2,7 @@ package final_demo;
 
 public class FinalVariable {
     final int instanceVariable;
-    final static int classVariable;
+    final static int CLASS_VARIABLE;
 
     public FinalVariable() {
         // 如果注释下面的代码，就类似于留了一个后门，
@@ -24,6 +24,6 @@ public class FinalVariable {
     }
 
     static {
-        classVariable = 3;
+        CLASS_VARIABLE = 3;
     }
 }
