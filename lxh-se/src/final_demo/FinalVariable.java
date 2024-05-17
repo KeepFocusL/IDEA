@@ -39,8 +39,8 @@ public class FinalVariable {
     }
 
     public void parameterWithFinal(final MyClass myClass) {
-        //myClass.x++;
-        //myClass = new MyClass();
+        //myClass.x++; // 可以。myClass 的值（地址值）并没被改变
+        //myClass = new MyClass(); // 不行。这里真正了改变了 myClass 的值（地址值）
     }
 }
 
