@@ -1,4 +1,4 @@
-package final_demo;
+package day240510.final_demo;
 
 public class FinalMethod {
     public final void fm () {}
