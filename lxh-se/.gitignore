@@ -31,4 +31,4 @@ bin/
 ### Custom ###
 .idea
 *.iml
-.xml
+src/day240106/doc
