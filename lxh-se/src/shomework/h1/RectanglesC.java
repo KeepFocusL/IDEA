@@ -1,4 +1,4 @@
-package SHomeWork.h1;
+package shomework.h1;
 
 import javax.swing.*;
 

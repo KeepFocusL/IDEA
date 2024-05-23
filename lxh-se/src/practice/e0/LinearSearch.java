@@ -1,4 +1,4 @@
-package Practice;
+package practice.e0;
 
 public class LinearSearch {
     public static void main(String[] args) {

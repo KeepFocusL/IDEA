@@ -1,4 +1,4 @@
-package Practice;
+package practice.e0;
 
 public class DisplayPhoneNumberTest11 {
     public static void main(String[] args) {

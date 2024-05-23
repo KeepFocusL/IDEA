@@ -1,4 +1,4 @@
-package SHomeWork.h3;
+package shomework.h3;
 
 import java.util.Random;
 import java.util.Scanner;
