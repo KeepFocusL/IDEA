@@ -1,5 +1,5 @@
 看到day240303
-String类型直接sout出的是地址，所以要用toString
+String类型直接sout出的是地址，所以要用toString，并且要重写toString方法才能打印出值
 ## 把构造器private起来怎么new
 * 加static在本类new  (static Student instance = new Student();)
 ### 想不让外部改变static值怎么办
