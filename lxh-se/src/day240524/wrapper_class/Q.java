@@ -1,4 +1,4 @@
-package day240524;
+package day240524.wrapper_class;
 
 public class Q {
     public static void main(String[] args) {
