@@ -33,6 +33,8 @@ public class StringTest {
         System.out.println(s4 == s5);
         System.out.println(s5 == s6);
         System.out.println(s6 == s7);
-        
+
+        String s8 = s6.intern();//.intern() 要求主动走常量池，而不是走s6中的s2地址
+        System.out.println(s3 == s8);
     }
 }
