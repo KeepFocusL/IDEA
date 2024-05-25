@@ -6,7 +6,6 @@ public class StringTest {
         String sq = new String("xyz");
         String sz = new String("xyz");
         System.out.println(sq == sz);
-        
-
+        System.out.println(sq.equals(sz));
     }
 }
