@@ -2,11 +2,10 @@ package day240525.string_demo;
 
 import day240508.CountTime.Algorithm;
 
-public class StringPlus extends Algorithm {
-    int count;
+public class StringPlus extends LoopAbleAlgorithm {
 
     public StringPlus(int count) {
-        this.count = count;
+        super(count);
     }
 
     @Override
