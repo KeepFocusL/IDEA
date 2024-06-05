@@ -9,21 +9,17 @@ import java.io.File;
 public class Task5 {
     public static void main(String[] args) {
         File directory = new File("src/day240515");
-        print(directory, 0);
+        print(directory, "");
     }
 
-    public static void print(File file, int level) {
-        for (int i = 0; i < level; i++) {
-            System.out.print("--");
-        }
-
-        System.out.println(file.getName());
+    public static void print(File file, String indent) {
+        System.out.println(indent + file.getName());
 
         if (file.isDirectory()) {
             File[] files = file.listFiles();
             if (files != null) {
                 for (File f : files) {
-                    print(f, level + 1);
+                    print(f, indent + "--");
                 }
             }
         }
