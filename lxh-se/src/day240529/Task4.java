@@ -14,10 +14,26 @@ public class Task4 {
     }
 
     private static void countingFileType(File file) {
-        // 真正做统计
-        map.put("jpg", 1);
-        map.put("txt", 3);
-        map.put("java", 5);
+        File[] files = file.listFiles();
+        if (files != null) {
+            for (File f : files) {
+                if (f.isDirectory()) {
+                    countingFileType(f);
+                } else {
+                    String name = f.getName();
+                    String ext = getFileExtension(name);
+                    if (map.containsKey(ext)) {
+                        map.put(ext, map.get(ext) + 1);
+                    } else {
+                        map.put(ext, 1);
+                    }
+                }
+            }
+        }
     }
 
+    private static String getFileExtension(String filename) {
+        // 要考虑无后缀名的情况
+        return filename.substring(filename.lastIndexOf(".") + 1);
+    }
 }
