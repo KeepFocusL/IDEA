@@ -13,7 +13,12 @@ public class Task5 {
     }
 
     public static void print(File file, String indent) {
-        System.out.println(indent + file.getName());
+        String suffix = "";
+        if (file.isFile()) {
+            long length = file.length();
+            suffix = " ("+length+"字节)";
+        }
+        System.out.println(indent + file.getName() + suffix);
 
         if (file.isDirectory()) {
             File[] files = file.listFiles();
