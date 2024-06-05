@@ -20,5 +20,21 @@ public class CollectionCommonMethod {
         System.out.println(al.isEmpty());
         System.out.println(al.size());
         System.out.println(al.contains("abc"));
+
+        System.out.println("=== === ===");
+
+        // 复习 instanceof
+        /*if (al instanceof ArrayList) {
+            ArrayList<String> arrayList = (ArrayList<String>) al;
+        }*/
+
+        if (al instanceof ArrayList arrayList) {
+            // 以 Collection 视角来看，没有 get 方法
+            // 以 ArrayList 视角来看，有 get 方法，方便访问元素
+            // 通过阅读源码，发现，其实以 List 视角就已经有 get 方法
+            System.out.println(arrayList.get(0));
+            System.out.println(arrayList.get(1));
+            System.out.println(arrayList.get(2));
+        }
     }
 }
