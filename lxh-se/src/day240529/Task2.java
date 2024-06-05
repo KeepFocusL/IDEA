@@ -28,5 +28,10 @@ public class Task2 {
         System.out.println(file2.isDirectory());
         String[] list1 = file2.list();
         System.out.println(Arrays.toString(list1));
+
+
+        System.out.println("=== === ===");
+        File file = new File(".DS_Store");
+        System.out.println(file.isHidden());
     }
 }
