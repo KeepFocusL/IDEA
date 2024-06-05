@@ -35,6 +35,12 @@ public class CollectionCommonMethod {
             System.out.println(arrayList.get(0));
             System.out.println(arrayList.get(1));
             System.out.println(arrayList.get(2));
+
+            System.out.println("--- --- ---");
+
+            for (int i = 0; i < arrayList.size(); i++) {
+                System.out.println(arrayList.get(i));
+            }
         }
     }
 }
