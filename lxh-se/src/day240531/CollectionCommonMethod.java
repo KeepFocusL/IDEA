@@ -2,6 +2,7 @@ package day240531;
 
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.Iterator;
 
 @SuppressWarnings({"all"})
 public class CollectionCommonMethod {
@@ -22,10 +23,6 @@ public class CollectionCommonMethod {
         System.out.println(al.contains("abc"));
 
         System.out.println("=== === ===");
-
-        for (String s : al) {
-
-        }
 
         // 复习 instanceof
         /*if (al instanceof ArrayList) {
@@ -50,6 +47,13 @@ public class CollectionCommonMethod {
 
             for (String xxx : arrayList) {
                 System.out.println(xxx);
+            }
+
+            System.out.println("--- --- ---");
+
+            Iterator<String> iterator = arrayList.iterator();
+            while (iterator.hasNext()) {
+                System.out.println(iterator.next());
             }
         }
     }
