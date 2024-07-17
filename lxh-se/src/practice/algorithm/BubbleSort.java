@@ -1,4 +1,4 @@
-package practice.e0;
+package practice.algorithm;
 
 import java.util.Arrays;
 

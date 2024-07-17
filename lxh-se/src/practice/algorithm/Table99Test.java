@@ -1,4 +1,4 @@
-package practice.e0;
+package practice.algorithm;
 
 public class Table99Test {
     public static void main(String[] args) {
