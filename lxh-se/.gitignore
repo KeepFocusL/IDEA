@@ -32,3 +32,4 @@ bin/
 .idea
 *.iml
 src/day240106/doc
+.mxl
