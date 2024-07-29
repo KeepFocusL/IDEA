@@ -2,8 +2,10 @@ package day240729;
 
 import day240729.dowloader.Downloader;
 import day240729.dowloader.NopeDownloader;
+import day240729.parser.DefaultParser;
+import day240729.parser.Parser;
 
-import javax.swing.text.html.parser.Parser;
+import java.util.List;
 
 
 public class App {
@@ -23,8 +25,11 @@ public class App {
         System.out.println("downloader - 下载完成");
 
         //Parser
-        Parser parser = new Parser();
-        //把downloader传入parser中解析
+        System.out.println("Parser - 正在解析...");
+        Parser parser = new DefaultParser();
+        List<String> result = parser.parse(html);
+        System.out.println(result);
+        System.out.println("Parser - 解析完成");
         
         //Repository
 
