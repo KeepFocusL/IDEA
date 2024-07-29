@@ -30,9 +30,12 @@ public class App {
         List<String> result = parser.parse(html);
         System.out.println(result);
         System.out.println("Parser - 解析完成");
-        
-        //Repository
 
+        //Repository
+        System.out.println("Repository - 正在储存...");
+        Repository repository = new出具体的实现类;
+        repository.store(result);
+        System.out.println("Repository - 储存完成");
 
         //Notificator
     }
