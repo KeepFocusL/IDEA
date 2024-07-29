@@ -3,6 +3,8 @@ package day240729;
 import day240729.dowloader.Downloader;
 import day240729.dowloader.NopeDownloader;
 
+import javax.swing.text.html.parser.Parser;
+
 
 public class App {
     public static void main(String[] args) {
@@ -21,7 +23,9 @@ public class App {
         System.out.println("downloader - 下载完成");
 
         //Parser
-
+        Parser parser = new Parser();
+        //把downloader传入parser中解析
+        
         //Repository
 
 
