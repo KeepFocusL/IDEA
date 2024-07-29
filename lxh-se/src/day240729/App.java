@@ -4,6 +4,8 @@ import day240729.dowloader.Downloader;
 import day240729.dowloader.NopeDownloader;
 import day240729.parser.DefaultParser;
 import day240729.parser.Parser;
+import day240729.repository.NopeRepository;
+import day240729.repository.Repository;
 
 import java.util.List;
 
@@ -33,7 +35,7 @@ public class App {
 
         //Repository
         System.out.println("Repository - 正在储存...");
-        Repository repository = new出具体的实现类;
+        Repository repository = new NopeRepository();
         repository.store(result);
         System.out.println("Repository - 储存完成");
 
