@@ -9,14 +9,26 @@ import day240729.parser.Parser;
 import day240729.repository.NopeRepository;
 import day240729.repository.Repository;
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.List;
+import java.util.Properties;
 
 
 public class App {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
         //读取配置文件
         System.out.println("文件配置设置完成!");
+        //=== --- ===
+        Properties properties = new Properties();
+        File file = new File("src/day240729/config.properties");
+        properties.load(new FileReader(file));
+        System.out.println(properties);
+        System.out.println("从配置文件读出来的 url=" + properties.getProperty("url"));
+        System.out.println("从配置文件读出来的 keywords=" + properties.getProperty("keywords"));
 
         //=== === ===
         //以boss的视角，定义规范
