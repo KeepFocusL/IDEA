@@ -5,6 +5,7 @@ import day240729.notificator.NopeNotificator;
 import day240729.notificator.Notificator;
 import day240729.parser.DefaultParser;
 import day240729.parser.Parser;
+import day240729.parser.XmfishParser;
 import day240729.repository.NopeRepository;
 import day240729.repository.Repository;
 
@@ -38,7 +39,7 @@ public class App {
 
         // Parser
         System.out.println("Parser - 正在解析...");
-        Parser parser = new DefaultParser();
+        Parser parser = new XmfishParser();
         List<String> result = parser.parse(html);
         System.out.println(result);
         System.out.println("Parser - 解析完成");
