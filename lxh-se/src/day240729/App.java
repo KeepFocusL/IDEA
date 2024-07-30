@@ -1,8 +1,6 @@
 package day240729;
 
 import day240729.dowloader.Downloader;
-import day240729.dowloader.JsoupDownloader;
-import day240729.dowloader.NopeDownloader;
 import day240729.notificator.NopeNotificator;
 import day240729.notificator.Notificator;
 import day240729.parser.DefaultParser;
@@ -11,64 +9,50 @@ import day240729.repository.NopeRepository;
 import day240729.repository.Repository;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.io.IOException;
 import java.util.List;
 import java.util.Properties;
 
-
 public class App {
-    public static void main(String[] args) throws IOException {
-
-        //读取配置文件
-        System.out.println("文件配置设置完成!");
-        //=== --- ===
+    public static void main(String[] args) throws Exception {
+        // 读取配置文件
+        System.out.println("配置文件读取成功");
+        // === --- ===
         Properties properties = new Properties();
-        File file = new File("src/day240729/config.properties");
+        File file = new File("src/day240729/project/config.properties");
         properties.load(new FileReader(file));
         System.out.println(properties);
-        System.out.println("从配置文件读出来的 url=" + properties.getProperty("url"));
-        System.out.println("从配置文件读出来的 keywords=" + properties.getProperty("keywords"));
+        System.out.println("从配置文件读取出来的 url=" + properties.getProperty("url"));
+        System.out.println("从配置文件读取出来的 keywords=" + properties.getProperty("keywords"));
+        // === --- ===
 
-        //=== === ===
-        //以boss的视角，定义规范
-        //定义具体的落地(黑盒子的思想):抽象类/接口
+        // === === ===
+        // 以 Boss 的视角，定义规范
+        // 定义规范的具体落地（黑盒子的思想）：抽象类/接口
+        // Downloader
+        Downloader downloader = Downloader.getDownloader(properties.getProperty("downloader"));
 
-        //Downloader 下载
-        Downloader downloader;
-        // 1. 从配置文件获取 downloader 配置的值
-        // 2. if ... else
-        String downloaderName = properties.getProperty("downloader");
-        if ("nope".equals(downloaderName)) {
-            downloader = new NopeDownloader();
-        } else if ("jsoup".equals(downloaderName)) {
-            downloader = new JsoupDownloader();
-        } else {
-            downloader = null;
-        }
         String html = downloader.download(properties.getProperty("url"));
         System.out.println(html);
-        System.out.println("downloader - 下载完成");
+        System.out.println("Downloader - 下载完成");
 
-        //Parser 解析
+        // Parser
         System.out.println("Parser - 正在解析...");
         Parser parser = new DefaultParser();
         List<String> result = parser.parse(html);
         System.out.println(result);
         System.out.println("Parser - 解析完成");
 
-        //Repository 解析
-        System.out.println("Repository - 正在储存...");
+        // Repository
+        System.out.println("Repository - 正在存储...");
         Repository repository = new NopeRepository();
         repository.store(result);
-        System.out.println("Repository - 储存完成");
+        System.out.println("Repository - 存储完成");
 
-        //Notificator 通知
+        // Notificator
         System.out.println("Notificator - 正在通知...");
         Notificator notificator = new NopeNotificator();
-        notificator.notice(result, "苹果，小米");
+        notificator.notice(result, properties.getProperty("keywords"));
         System.out.println("Notificator - 通知完成！");
-
     }
 }
