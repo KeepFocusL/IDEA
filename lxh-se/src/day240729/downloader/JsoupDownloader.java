@@ -1,4 +1,4 @@
-package day240729.dowloader;
+package day240729.downloader;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

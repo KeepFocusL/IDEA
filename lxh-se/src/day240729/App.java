@@ -1,11 +1,9 @@
 package day240729;
 
-import day240729.dowloader.Downloader;
+import day240729.downloader.Downloader;
 import day240729.notificator.NopeNotificator;
 import day240729.notificator.Notificator;
-import day240729.parser.DefaultParser;
 import day240729.parser.Parser;
-import day240729.parser.XmfishParser;
 import day240729.repository.NopeRepository;
 import day240729.repository.Repository;
 
@@ -20,7 +18,7 @@ public class App {
         System.out.println("配置文件读取成功");
         // === --- ===
         Properties properties = new Properties();
-        File file = new File("src/day240729/project/config.properties");
+        File file = new File("src/day240729/config.properties");
         properties.load(new FileReader(file));
         System.out.println(properties);
         System.out.println("从配置文件读取出来的 url=" + properties.getProperty("url"));
