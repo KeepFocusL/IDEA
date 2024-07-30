@@ -39,7 +39,7 @@ public class App {
 
         // Parser
         System.out.println("Parser - 正在解析...");
-        Parser parser = new XmfishParser();
+        Parser parser = Parser.getParser(properties.getProperty("parser"));
         List<String> result = parser.parse(html);
         System.out.println(result);
         System.out.println("Parser - 解析完成");
