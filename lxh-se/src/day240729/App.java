@@ -37,7 +37,7 @@ public class App {
         //Downloader 下载
         //抽象类不能直接new出,写一个方法继承他实现
         Downloader downloader = new NopeDownloader();
-        String html = downloader.download("http://bbs.xmfish.com/thread-htm-fid-55-search-all-orderway-postdate-asc-DESC-page-1.html");
+        String html = downloader.download(properties.getProperty("url"));
         System.out.println(html);
         System.out.println("downloader - 下载完成");
 
