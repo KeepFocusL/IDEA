@@ -39,13 +39,13 @@ public class App {
         //Repository 解析
         System.out.println("Repository - 正在储存...");
         Repository repository = new NopeRepository();
-        List<String> ls = repository.store(result);
+        repository.store(result);
         System.out.println("Repository - 储存完成");
 
         //Notificator 通知
         System.out.println("Notificator - 正在通知...");
         Notificator notificator = new NopeNotificator();
-        notificator.notice(ls, "苹果，小米");
+        notificator.notice(result, "苹果，小米");
         System.out.println("Notificator - 通知完成！");
 
     }
