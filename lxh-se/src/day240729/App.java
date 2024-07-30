@@ -1,11 +1,12 @@
 package day240729;
 
-import day240729.downloader.Downloader;
 import day240729.notificator.NopeNotificator;
 import day240729.notificator.Notificator;
-import day240729.parser.Parser;
 import day240729.repository.NopeRepository;
 import day240729.repository.Repository;
+import day240729.util.MyReflectUtil;
+import day240729.downloader.Downloader;
+import day240729.parser.Parser;
 
 import java.io.File;
 import java.io.FileReader;
@@ -18,7 +19,7 @@ public class App {
         System.out.println("配置文件读取成功");
         // === --- ===
         Properties properties = new Properties();
-        File file = new File("src/day240729/config.properties");
+        File file = new File("src/day240729/project/config.properties");
         properties.load(new FileReader(file));
         System.out.println(properties);
         System.out.println("从配置文件读取出来的 url=" + properties.getProperty("url"));
@@ -29,7 +30,8 @@ public class App {
         // 以 Boss 的视角，定义规范
         // 定义规范的具体落地（黑盒子的思想）：抽象类/接口
         // Downloader
-        Downloader downloader = Downloader.getDownloader(properties.getProperty("downloader"));
+        //Downloader downloader = Downloader.getDownloader(properties.getProperty("downloader"));
+        Downloader downloader = MyReflectUtil.getInstance(properties.getProperty("downloader"));
 
         String html = downloader.download(properties.getProperty("url"));
         System.out.println(html);
@@ -37,7 +39,8 @@ public class App {
 
         // Parser
         System.out.println("Parser - 正在解析...");
-        Parser parser = Parser.getParser(properties.getProperty("parser"));
+        //Parser parser = Parser.getParser(properties.getProperty("parser"));
+        Parser parser = MyReflectUtil.getInstance(properties.getProperty("parser"));;
         List<String> result = parser.parse(html);
         System.out.println(result);
         System.out.println("Parser - 解析完成");
