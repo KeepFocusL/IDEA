@@ -35,8 +35,15 @@ public class App {
         //定义具体的落地(黑盒子的思想):抽象类/接口
 
         //Downloader 下载
-        //抽象类不能直接new出,写一个方法继承他实现
-        Downloader downloader = new NopeDownloader();
+        Downloader downloader;
+        // 1. 从配置文件获取 downloader 配置的值
+        // 2. if ... else
+        String downloaderName = properties.getProperty("downloader");
+        if ("nope".equals(downloaderName)) {
+            downloader = new NopeDownloader();
+        } else {
+            downloader = null;
+        }
         String html = downloader.download(properties.getProperty("url"));
         System.out.println(html);
         System.out.println("downloader - 下载完成");
