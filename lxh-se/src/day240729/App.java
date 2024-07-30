@@ -1,6 +1,7 @@
 package day240729;
 
 import day240729.dowloader.Downloader;
+import day240729.dowloader.JsoupDownloader;
 import day240729.dowloader.NopeDownloader;
 import day240729.notificator.NopeNotificator;
 import day240729.notificator.Notificator;
@@ -41,6 +42,8 @@ public class App {
         String downloaderName = properties.getProperty("downloader");
         if ("nope".equals(downloaderName)) {
             downloader = new NopeDownloader();
+        } else if ("jsoup".equals(downloaderName)) {
+            downloader = new JsoupDownloader();
         } else {
             downloader = null;
         }
