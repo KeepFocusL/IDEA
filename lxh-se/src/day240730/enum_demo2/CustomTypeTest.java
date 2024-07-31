@@ -9,5 +9,12 @@ public class CustomTypeTest {
         for (CustomType value : values) {
             System.out.println(value);
         }
+
+        System.out.println("=== === ===");
+
+        System.out.println(CustomType.valueOf("JAVA"));
+
+        // java.lang.IllegalArgumentException: No enum constant ...CustomType...
+        System.out.println(CustomType.valueOf("java"));
     }
 }
