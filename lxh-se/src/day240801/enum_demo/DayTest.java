@@ -5,6 +5,8 @@ public class DayTest {
     public static void main(String[] args) {
         System.out.println(Day.TUESDAY);
 
-        Day.TUESDAY.desc();
+        for (Day day :Day.values()) {
+            day.desc();
+        }
     }
 }
