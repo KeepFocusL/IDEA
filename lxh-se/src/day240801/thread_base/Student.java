@@ -13,8 +13,8 @@ public class Student {
         System.out.println("----");
     }
 
-    //在behavior中 new,让外部想要new出这个类只能调用这个方法,但是这只是面向与单线程的单例,多线程的单例看后续commit
-    public static Student getInstance() {
+    //这里加了一把锁(synchronized),让多线程也能`单例`
+    public synchronized static Student getInstance() {
         if (instance == null) {
             instance = new Student();
         }
