@@ -10,7 +10,8 @@ package day240802;
 public class ThreadNewPath {
     public static void main(String[] args) {
         Thread myThread1 = new MyThread1("Thread-path1");
-        myThread1.start();
+        // 直接调用 run 方法，相当于普通的方法调用，而非启动一条新的执行路径
+        myThread1.run();
 
         Thread myThread2 = new Thread(new MyThread2(), "Thread-path2");
         myThread2.start();
