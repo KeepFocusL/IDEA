@@ -18,5 +18,8 @@ public class ThreadState {
         new Thread(() -> {
             System.out.println(Thread.currentThread().getName() + "-3");
         }).start();
+
+        // Thread.State
+        // 阅读 `Thread.State` 源码：先看它是什么类型，再细看它的代码注释
     }
 }
