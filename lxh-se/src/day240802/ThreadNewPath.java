@@ -20,13 +20,11 @@ public class ThreadNewPath {
 
         /*Thread myThread2 = new Thread(new MyThread2(), "Thread-path2");
         myThread2.start();*/
-        new Thread(new Runnable() {
-            @Override
-            public void run() {
-                for (int i = 0; i < 1000; i++) {
-                    System.out.println(Thread.currentThread().getName() + "---" + i);
-                }
+        new Thread(() -> {
+            for (int i = 0; i < 100; i++) {
+                System.out.println(Thread.currentThread().getName() + "---" + i);
             }
+
         }).start();
     }
 }
