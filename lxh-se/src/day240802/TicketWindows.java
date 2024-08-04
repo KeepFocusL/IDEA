@@ -21,17 +21,13 @@ public class TicketWindows {
 
     public static void main(String[] args) {
         for (int i = 0; i < 10; i++) {
-            new Thread(new Runnable() {
-                @Override
-                public void run() {
-                    while (true) {
-                        String s = tickets.poll();
-                        if (s == null) {
-                            break;
-                        } else {
-                            System.out.println("售出===" + s);
-                        }
+            new Thread(() -> {
+                while(true) {
+                    String s = tickets.poll();
+                    if(s == null) {
+                        break;
                     }
+                    else System.out.println("售出===" + s);
                 }
             }).start();
         }
