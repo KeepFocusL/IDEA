@@ -12,7 +12,7 @@ public class ThreadNewPath {
         Thread myThread1 = new MyThread1();
         myThread1.start();
 
-        Thread myThread2 = new Thread(new MyThread2());
+        Thread myThread2 = new Thread(new MyThread2(), "Thread-path2");
         myThread2.start();
     }
 }
