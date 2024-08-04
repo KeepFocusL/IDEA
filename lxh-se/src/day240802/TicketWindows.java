@@ -1,7 +1,7 @@
 package day240802;
 
-import java.util.List;
-import java.util.Vector;
+import java.util.Queue;
+import java.util.concurrent.ConcurrentLinkedQueue;
 
 /**
  * 模拟车站买票的场景：总共有 10000 张票，同时开放 10 个窗口对外售卖
@@ -11,7 +11,7 @@ import java.util.Vector;
  * 分析下面的程序：会不会出问题？会出什么问题？为什么？如何改进？
  */
 public class TicketWindows {
-    static List<String> tickets = new Vector<>();
+    static Queue<String> tickets = new ConcurrentLinkedQueue<>();
 
     static {
         for (int i = 0; i < 10000; i++) {
@@ -25,16 +25,11 @@ public class TicketWindows {
                 @Override
                 public void run() {
                     while (true) {
-                        synchronized (tickets) {
-                            if (tickets.isEmpty()) {
-                                break;
-                            }
-                            try {
-                                Thread.sleep(1);
-                            } catch (InterruptedException e) {
-                                throw new RuntimeException(e);
-                            }
-                            System.out.println("售出===" + tickets.remove(0));
+                        String s = tickets.poll();
+                        if (s == null) {
+                            break;
+                        } else {
+                            System.out.println("售出===" + s);
                         }
                     }
                 }
