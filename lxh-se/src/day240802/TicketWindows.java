@@ -1,7 +1,7 @@
 package day240802;
 
-import java.util.ArrayList;
 import java.util.List;
+import java.util.Vector;
 
 /**
  * 模拟车站买票的场景：总共有 10000 张票，同时开放 10 个窗口对外售卖
@@ -11,7 +11,7 @@ import java.util.List;
  * 分析下面的程序：会不会出问题？会出什么问题？为什么？如何改进？
  */
 public class TicketWindows {
-    static List<String> tickets = new ArrayList<>();
+    static List<String> tickets = new Vector<>();
 
     static {
         for (int i = 0; i < 10000; i++) {
