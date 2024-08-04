@@ -6,6 +6,10 @@ package day240802;
  * 方式一：extends Thread && Override run() && start()
  * 方式二：implements Runnable && implement run() && new Thread(...).start()
  * 方法其他：还有其他方式，本例子暂时先介绍这两种，后续再补充
+ * <p>
+ * 思考：`extends Thread` VS `implements Runnable` 哪种更合适？
+ * - 考虑到未来的扩展性，最好选择 `implements Runnable`
+ * - 因为 Java 的类只支持单继承，继承了 Thread 之后，以后就没办法再继承其他类
  */
 public class ThreadNewPath {
     public static void main(String[] args) {
