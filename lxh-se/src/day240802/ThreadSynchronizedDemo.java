@@ -11,7 +11,12 @@ public class ThreadSynchronizedDemo {
         System.out.println("ThreadSynchronizedDemo.classM1");
     }
 
-    public synchronized void instanceM1() {
+    public void instanceM1() {
         System.out.println("ThreadSynchronizedDemo.instanceM1");
+        System.out.println("假设这个有10行代码，没有操作公共资源，即使多线程访问也没影响。不需要被锁");
+        synchronized (this) {
+            System.out.println("N行访问共享资源的代码...");
+        }
+        System.out.println("其他代码...");
     }
 }
