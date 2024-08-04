@@ -25,6 +25,12 @@ public class TicketWindows {
                 @Override
                 public void run() {
                     while (!tickets.isEmpty()) {
+                        try {
+                            Thread.sleep(1);
+                        } catch (InterruptedException e) {
+                            throw new RuntimeException(e);
+                        }
+                        // 加了小小睡眠之后，更直观的感受：isEmpty + remove 两个动作不是原子操作
                         System.out.println("售出===" + tickets.remove(0));
                     }
                 }
