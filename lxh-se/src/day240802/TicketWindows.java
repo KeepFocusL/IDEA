@@ -24,8 +24,11 @@ public class TicketWindows {
             new Thread(new Runnable() {
                 @Override
                 public void run() {
-                    synchronized (tickets) {
-                        while (!tickets.isEmpty()) {
+                    while (true) {
+                        synchronized (tickets) {
+                            if (tickets.isEmpty()) {
+                                break;
+                            }
                             try {
                                 Thread.sleep(1);
                             } catch (InterruptedException e) {
