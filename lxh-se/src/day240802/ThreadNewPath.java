@@ -9,7 +9,7 @@ package day240802;
  */
 public class ThreadNewPath {
     public static void main(String[] args) {
-        Thread myThread1 = new MyThread1();
+        Thread myThread1 = new MyThread1("Thread-path1");
         myThread1.start();
 
         Thread myThread2 = new Thread(new MyThread2(), "Thread-path2");
@@ -18,6 +18,13 @@ public class ThreadNewPath {
 }
 
 class MyThread1 extends Thread {
+    public MyThread1() {
+    }
+
+    public MyThread1(String name) {
+        super(name);
+    }
+
     @Override
     public void run() {
         for (int i = 0; i < 100; i++) {
