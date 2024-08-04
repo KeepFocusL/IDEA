@@ -1,10 +1,13 @@
 package day240802;
 
+import day240602.T;
+
 public class ThreadCommonMethod {
     public static void main(String[] args) throws InterruptedException {
         //sleep();
         //join();
-        testYield();
+        //testYield();
+        testPriority();
     }
 
 
@@ -42,6 +45,22 @@ public class ThreadCommonMethod {
                 }
             }
         }).start();
+
+        for (int i = 0; i < 100; i++) {
+            System.out.println(Thread.currentThread().getName() + "---" + i);
+        }
+    }
+
+    private static void testPriority() {
+        Thread t1 = new Thread(() -> {
+            for (int i = 0; i < 100; i++) {
+                System.out.println(Thread.currentThread().getName() + "---" + i);
+            }
+        });
+
+        //NORM_PRIORITY默认为5,MIX_PRIORITY = 1,MAX_PRIORITY = 10
+        t1.setPriority(Thread.NORM_PRIORITY + 3);
+        t1.start();
 
         for (int i = 0; i < 100; i++) {
             System.out.println(Thread.currentThread().getName() + "---" + i);
