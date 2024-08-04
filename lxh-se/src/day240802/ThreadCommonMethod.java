@@ -7,7 +7,8 @@ public class ThreadCommonMethod {
         //sleep();
         //join();
         //testYield();
-        testPriority();
+        //testPriority();
+        isAlive();
     }
 
 
@@ -65,6 +66,24 @@ public class ThreadCommonMethod {
         for (int i = 0; i < 100; i++) {
             System.out.println(Thread.currentThread().getName() + "---" + i);
         }
+    }
+
+    private static void isAlive() {
+        Thread t1 = new Thread(() -> {
+            for (int i = 0; i < 10; i++) {
+                System.out.println(Thread.currentThread().getName() + "---" + i);
+            }
+        });
+        System.out.println(t1.isAlive());
+        t1.start();
+        System.out.println(t1.isAlive());
+
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        System.out.println(t1.isAlive());
     }
 }
 
